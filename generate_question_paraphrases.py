@@ -15,9 +15,7 @@ OUTPUT_DIR = OUTPUT_ROOT / "nugget_qa_paraphrased"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
-BATCH_SIZE = 10
 
-processed = 0
 
 PROMPT_TEMPLATE = """
 You are rewriting a Turkish question.
@@ -142,7 +140,9 @@ def main():
         records = list(load_jsonl(qa_file))
 
         with output_file.open("w", encoding="utf-8") as fout:
-
+            BATCH_SIZE = 10
+            processed = 0
+            
             for batch_records in batch(records, BATCH_SIZE):
 
                 print(
