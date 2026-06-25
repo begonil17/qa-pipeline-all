@@ -1,0 +1,14 @@
+[
+  {
+    "nugget_id": "ng_96c3a6ddd726",
+    "text": "FIVB Dünya Şampiyonası, hem FIVB Voleybol Erkekler Dünya Şampiyonası'nı hem de FIVB Voleybol Kadınlar Dünya Şampiyonası'nı ifade edebilir.",
+    "importance": 9,
+    "source_article": "FIVB World Championship",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metnin doğrudan ve doğru bir çevirisidir. 'FIVB World Championship may refer to FIVB Volleyball Men's World Championship FIVB Volleyball Women's World Championship' ifadesi, 'FIVB Dünya Şampiyonası, FIVB Voleybol Erkekler Dünya Şampiyonası'nı ve FIVB Voleybol Kadınlar Dünya Şampiyonası'nı ifade edebilir' şeklinde doğru bir şekilde aktarılmıştır.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "The nugget provides a clear and concise definition of what the FIVB World Championship can refer to, which is useful general knowledge. It is atomic and directly supported by the source text."
+  }
+]

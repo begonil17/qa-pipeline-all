@@ -1,0 +1,50 @@
+[
+  {
+    "nugget_id": "ng_00303c2b0871",
+    "text": "Yol Kuralları terimi, ulaşım ve sanat eserleri gibi çeşitli anlamlara gelebilir.",
+    "importance": 10,
+    "source_article": "Rules of the road",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The original chunk states 'Rules of the road may refer to: == Transportation == ... == Arts and entertainment == ...', which directly supports that the term has various meanings, including transportation and works of art.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a broad overview of the different meanings of 'Rules of the road', which is useful for general understanding. It is a good starting point for the dataset."
+  },
+  {
+    "nugget_id": "ng_ac5ed52ea0d5",
+    "text": "Yol Kuralları ifadesi, İrlanda, Çin ve Avustralya gibi ülkelerde yol güvenliği ve trafik kurallarını belirten resmi kılavuzları veya düzenlemeleri ifade edebilir.",
+    "importance": 8,
+    "source_article": "Rules of the road",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk mentions 'Rules of the Road (Ireland), the official road safety manual for Ireland', 'Rules of the road in China', and 'Australian Road Rules', all of which support the nugget's claim about official guides or regulations for road safety and traffic rules in these countries.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific examples of countries where 'Rules of the road' refers to official traffic regulations. This is valuable and distinct information."
+  },
+  {
+    "nugget_id": "ng_e2e25c4beb4f",
+    "text": "Uluslararası Denizde Çatışmayı Önleme Tüzüğü, denizcilik alanındaki 'Yol Kuralları' karşılığıdır.",
+    "importance": 7,
+    "source_article": "Rules of the road",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk lists 'International Regulations for Preventing Collisions at Sea' under 'Transportation', which is the maritime equivalent of 'Rules of the road'. The Turkish translation is accurate.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget introduces a specific, important domain (maritime) where 'Rules of the road' has a distinct meaning. It adds specialized knowledge."
+  },
+  {
+    "nugget_id": "ng_e92a21ba2d0e",
+    "text": "Yol Kuralları başlığı, Anita O'Day ve Lee Kernaghan'ın albümleri ile Oliver Herbrich ve Su Friedrich'in filmleri gibi çeşitli sanat ve eğlence eserlerinde kullanılmıştır.",
+    "importance": 5,
+    "source_article": "Rules of the road",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk explicitly lists 'Rules of the Road (Anita O'Day album)', 'Rules of the Road (Lee Kernaghan album)', 'Rules of the Road, a 1993 documentary film by Oliver Herbrich', and 'Rules of the Road, a 1993 short film by Su Friedrich' under the 'Arts and entertainment' section, directly supporting the nugget's claim.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "While supported, the artistic references are less central to the core meaning of 'Rules of the road' for a general audience compared to transportation or official regulations. Storing in a compressed form is appropriate."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "ng_469480060c46",
+    "text": "Profesyonellik, işyerinde ciddiyet, tekdüzelik veya saygı göstermek amacıyla bireylerden beklenen bir dizi standarttır.",
+    "importance": 10,
+    "source_article": "Professionalism",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is a direct translation of the sentence: 'Professionalism is a set of standards that an individual is expected to adhere to in a workplace, usually in order to appear serious, uniform, or respectful.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a core definition of professionalism, which is essential for a QA dataset. It is broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_23f12ad6dc9b",
+    "text": "Profesyonelliğin ne olduğu sıkça tartışılır ve işyerine, kültüre ve zamana göre değişir.",
+    "importance": 9,
+    "source_article": "Professionalism",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget states that professionalism is debated and varies by workplace, culture, and time. The chunk states: 'What constitutes professionalism is often debated and varies from workplace to workplace and between cultures.' Additionally, the 'Changing attitudes' section explicitly discusses how professional expectations change over time (e.g., tattoos, COVID-19 impact), supporting the 'zamana göre değişir' (varies according to time) part.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget highlights the subjective and context-dependent nature of professionalism, which is a crucial nuance. It's broad and valuable for understanding the concept."
+  },
+  {
+    "nugget_id": "ng_30bb9b0c466b",
+    "text": "Profesyonellik genellikle mesleki etik, uygun davranış ve kıyafet kurallarının birleşimi olarak tanımlanır.",
+    "importance": 9,
+    "source_article": "Professionalism",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is a direct translation of the sentence: 'Professionalism is typically defined as a mix of professional ethics, appropriate behavior, and dress code.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget offers a common definition of professionalism by outlining its key components (ethics, behavior, dress code). It's a fundamental piece of information."
+  },
+  {
+    "nugget_id": "ng_39bf21e1599f",
+    "text": "Profesyonel bir kişinin yaygın özellikleri arasında dürüstlük, dakiklik, güvenilirlik, organizasyon becerileri, duygusal zeka ve uygun giyim bulunur.",
+    "importance": 8,
+    "source_article": "Professionalism",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget directly lists the traits mentioned in the chunk: 'Common traits of a 'professional' person include: integrity punctuality reliability organization skills emotional intelligence appropriate dress'.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget lists concrete traits associated with professionalism, providing practical examples that users can relate to. It's useful and broadly applicable."
+  },
+  {
+    "nugget_id": "ng_317088684194",
+    "text": "Profesyonelliğe dair kültürel beklentiler dünya genelinde farklılık gösterir; örneğin Japonya'da alçakgönüllülük, Orta Doğu'da misafirperverlik önemlidir.",
+    "importance": 8,
+    "source_article": "Professionalism",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentences: 'Cultural expectations of professionalism differ around the world. In Japan, humility is valued as a professional trait. In the Middle East, hospitality is an important character quality of a professional person.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget illustrates the cultural variations in professionalism with specific examples, which is valuable for a diverse user base and adds depth to the understanding of the concept."
+  },
+  {
+    "nugget_id": "ng_aca9af063d45",
+    "text": "Profesyonellik eleştirmenleri, saç stili veya kıyafet kısıtlamaları gibi bazı standartların modası geçmiş veya aşırı sınırlayıcı olduğunu belirtir.",
+    "importance": 8,
+    "source_article": "Professionalism",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is a direct translation of the sentence: 'Critics of professionalism typically say that some specific standards, such as hairstyle or clothing restrictions, are outdated or overly limiting.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget introduces a critical perspective on professionalism standards, which is important for a balanced view. While specific, it touches on broader issues of outdated norms."
+  },
+  {
+    "nugget_id": "ng_617996547815",
+    "text": "ABD'de doğal saç stillerine yönelik işyeri yasakları ayrımcılık olarak eleştirilmiş ve CROWN Yasası gibi düzenlemelere yol açmıştır.",
+    "importance": 8,
+    "source_article": "Professionalism",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentences: 'In the United States, employers have banned natural hairstyles for African Americans, resulting in a push for CROWN Act laws (Create a Respectful and Open World for Natural Hair). Professional standards that generally apply to only one race have been criticized as a form of discrimination.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a specific example of how professionalism standards can be discriminatory and lead to legal changes. It's a concrete illustration of the critique mentioned in ng_aca9af063d45, but perhaps too specific for 'high' detail on its own."
+  },
+  {
+    "nugget_id": "ng_b63954976a6a",
+    "text": "Profesyonellik beklentileri genellikle yazılı değildir ve eğitimler gençlerin iş hayatına uyum sağlamasına yardımcı olabilir.",
+    "importance": 7,
+    "source_article": "Professionalism",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is supported by the sentences: 'Expectations of professionalism are often unsaid or unwritten. Trainings and clear communication can help young people entering the workforce avoid 'unprofessional' behavior.' The meaning is preserved.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget points out the unwritten nature of professionalism expectations and the role of training, which is practical advice for those entering the workforce. It's useful but less foundational than the definition nuggets."
+  },
+  {
+    "nugget_id": "ng_8502067db8bf",
+    "text": "COVID-19 pandemisi sonrası video görüşmeleri, evden çalışma ve mesai sonrası ulaşılabilirlik gibi konularda profesyonellik beklentileri değişmiştir.",
+    "importance": 7,
+    "source_article": "Professionalism",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is a direct translation of the sentence: 'Following the COVID-19 pandemic, professional expectations around video calls, work-from-home behavior, and after-hours availability began to change.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget highlights recent shifts in professionalism expectations due to the pandemic, focusing on modern work arrangements. It's relevant and timely, but perhaps less universally applicable than core definitions."
+  },
+  {
+    "nugget_id": "ng_ffbf6f8b6556",
+    "text": "21. yüzyılda dövmelere ve kot pantolon gibi kıyafetlere karşı işyeri tutumları değişmekte, bazı yerlerde yasaklar kalkmaktadır.",
+    "importance": 6,
+    "source_article": "Professionalism",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is supported by the 'Changing attitudes' section, which states: 'Having tattoos is considered taboo in some workplaces, but this has been changing in the 21st century. ... In New Zealand, some businesses have dropped bans on traditional Māori tattoos. ... In the United States, some workplaces have 'Jean Fridays' ... The allowance of jeans into the white-collar workforce on Fridays has led some workplaces to adopt jeans as professional attire for the whole week.'",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides specific examples of changing attitudes towards tattoos and clothing. While illustrative, it's less central than the core definitions and broader concepts of professionalism. Compressing it retains the core idea without excessive detail."
+  }
+]

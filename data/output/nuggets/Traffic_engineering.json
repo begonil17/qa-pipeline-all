@@ -1,0 +1,62 @@
+[
+  {
+    "nugget_id": "ng_c748e2e3aea8",
+    "text": "Trafik mühendisliği terimi, farklı disiplinlerde çeşitli anlamlara gelebilir.",
+    "importance": 9,
+    "source_article": "Traffic engineering",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Orijinal metin, \"Traffic engineering can mean:\" ifadesiyle trafik mühendisliğinin farklı anlamlara sahip olduğunu açıkça belirtmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a broad overview of the term 'traffic engineering' and its varied meanings across different disciplines, making it a foundational piece of information."
+  },
+  {
+    "nugget_id": "ng_a39dfcb43051",
+    "text": "Ulaşım trafik mühendisliği, inşaat mühendisliğinin bir dalıdır.",
+    "importance": 8,
+    "source_article": "Traffic engineering",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Orijinal metin, \"Traffic engineering (transportation), a branch of civil engineering\" ifadesiyle ulaşım trafik mühendisliğinin inşaat mühendisliğinin bir dalı olduğunu açıkça belirtmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines a specific type of traffic engineering (transportation) and its relationship to civil engineering, providing important context and classification."
+  },
+  {
+    "nugget_id": "ng_2b5bcd78adac",
+    "text": "Teletrafik mühendisliği, telekomünikasyon alanında kullanılan istatistiksel tekniklerin bir alanıdır.",
+    "importance": 7,
+    "source_article": "Traffic engineering",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Orijinal metin, \"Teletraffic engineering, a field of statistical techniques used in telecommunications\" ifadesiyle teletrafik mühendisliğinin tanımını doğrudan vermektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines 'teletraffic engineering' and its domain (telecommunications, statistical techniques), offering specific and useful knowledge."
+  },
+  {
+    "nugget_id": "ng_7ef3e6a72cde",
+    "text": "İnternet trafik mühendisliği, ağ mühendisliğinin bir parçasıdır.",
+    "importance": 7,
+    "source_article": "Traffic engineering",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Orijinal metin, \"Internet traffic engineering, a part of network engineering\" ifadesiyle internet trafik mühendisliğinin ağ mühendisliğinin bir parçası olduğunu açıkça belirtmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget clearly defines 'Internet traffic engineering' as a component of network engineering, providing a specific and valuable classification."
+  },
+  {
+    "nugget_id": "ng_bb3aa35bb7f6",
+    "text": "İnternet trafik mühendisliği, internetteki yönlendirmeyi optimize etmeyi amaçlar.",
+    "importance": 6,
+    "source_article": "Traffic engineering",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Orijinal metin, \"involving the optimization of routing in the Internet\" ifadesiyle internet trafik mühendisliğinin internetteki yönlendirmeyi optimize etmeyi içerdiğini, dolayısıyla bunun temel amaçlarından biri olduğunu belirtmektedir.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget describes the objective of 'Internet traffic engineering'. While useful, it is more specific than the definition of its relationship to network engineering. Storing it in a compressed form balances detail with storage limitations."
+  }
+]

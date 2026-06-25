@@ -1,0 +1,110 @@
+[
+  {
+    "nugget_id": "ng_5359b412e10f",
+    "text": "Gümrük, ithal veya ihraç edilen mallara uygulanan bir tarifedir.",
+    "importance": 10,
+    "source_article": "Custom",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Customs, a tariff on imported or exported goods' from the original chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a clear and fundamental definition of 'customs' in the context of trade, which is broadly useful."
+  },
+  {
+    "nugget_id": "ng_53e19f55febd",
+    "text": "Örf ve adet hukuku veya teamül hukuku, yaygın uygulama ile oluşturulmuş yasa ve düzenlemelerdir.",
+    "importance": 9,
+    "source_article": "Custom",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Customary law or consuetudinary, laws and regulations established by common practice' from the original chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines customary law, a significant legal concept with broad applicability."
+  },
+  {
+    "nugget_id": "ng_6abca56f4b72",
+    "text": "Uluslararası teamül hukuku, gelenek ilkesini içeren uluslararası hukukun bir yönüdür.",
+    "importance": 9,
+    "source_article": "Custom",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Customary international law, an aspect of international law involving the principle of custom' from the original chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains customary international law, a key concept in international relations and law."
+  },
+  {
+    "nugget_id": "ng_8830b6deced4",
+    "text": "Ismarlama (Bespoke), belirli bir spesifikasyona göre sipariş edilen herhangi bir şeydir.",
+    "importance": 8,
+    "source_article": "Custom",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Bespoke, anything commissioned to a particular specification' from the original chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines 'bespoke' in a general sense, which is a useful concept for understanding custom orders."
+  },
+  {
+    "nugget_id": "ng_898cca19ff45",
+    "text": "Gelenek (norm), genellikle bir gelenek biçimini alan, üzerinde anlaşılmış, belirlenmiş veya genel kabul görmüş kurallar, normlar, standartlar veya kriterler bütünüdür.",
+    "importance": 8,
+    "source_article": "Custom",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Convention (norm), a set of agreed, stipulated or generally accepted rules, norms, standards or criteria, often taking the form of a custom' from the original chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a comprehensive definition of 'convention (norm)' and its relation to custom, which is broadly applicable."
+  },
+  {
+    "nugget_id": "ng_0ffc5dd96657",
+    "text": "Sosyal norm, toplumsal olarak uygulanan bir kuraldır.",
+    "importance": 7,
+    "source_article": "Custom",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Social norm, a rule that is socially enforced' from the original chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines 'social norm,' a fundamental concept in sociology and everyday life."
+  },
+  {
+    "nugget_id": "ng_056adb6f5014",
+    "text": "Gelenekler (Mores), belirli bir kültürde yaygın olarak gözlemlenen ve iyi ahlaklı kişiler tarafından uygulandığı düşünülen davranışlardır.",
+    "importance": 7,
+    "source_article": "Custom",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Mores, what is widely observed in a particular culture, considered to be practiced by persons of good moral character' from the original chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines 'mores,' which are important cultural and ethical concepts."
+  },
+  {
+    "nugget_id": "ng_f8ca3add98c0",
+    "text": "Katolik kilise hukukunda gelenek, tekrarlanan uygulama ile oluşturulmuş yazılı olmayan bir yasadır.",
+    "importance": 7,
+    "source_article": "Custom",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Custom (Catholic canon law), an unwritten law established by repeated practice' from the original chunk.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget is specific to Catholic canon law, making it less broadly useful than other definitions of custom. Storing it in a compressed form is appropriate."
+  },
+  {
+    "nugget_id": "ng_fb7dab3244e9",
+    "text": "Minhag (çoğulu minhagim), Yahudi gelenekleridir.",
+    "importance": 6,
+    "source_article": "Custom",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and reflects the definition of 'Minhag (pl. minhagim), Jewish customs' from the original chunk.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget is specific to Jewish traditions ('Minhag'). While interesting, it's less broadly applicable than general definitions of custom. Storing it in a compressed form is suitable."
+  }
+]

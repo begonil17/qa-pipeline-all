@@ -1,0 +1,326 @@
+[
+    {
+      "name": "Sports",
+      "focus": [
+        "football basics",
+        "Turkish football clubs",
+        "basketball",
+        "Olympic sports",
+        "tennis",
+        "major international tournaments",
+        "volleybal",
+        "national teams"
+      ],
+      "avoid": [
+        "sports politics",
+        "fan violence"
+      ]
+    },
+    {
+      "name": "Technology",
+      "focus": [
+        "artificial intelligence",
+        "computer basics",
+        "internet concepts",
+        "cybersecurity basics",
+        "smartphones",
+        "electronic devices"
+      ],
+      "avoid": [
+        "hacking instructions",
+        "malware"
+      ]
+    },
+    {
+        "name": "Real Estate",
+        "focus": [
+          "housing",
+          "home ownership",
+          "rental housing",
+          "apartments",
+          "property valuation",
+          "mortgages",
+          "real estate investment",
+          "urban development",
+          "construction",
+          "residential architecture"
+        ],
+        "avoid": [
+          "investment advice",
+          "property speculation"
+        ]
+      },
+    
+      {
+        "name": "Culture and Traditions",
+        "focus": [
+          "Turkish traditions",
+          "Turkish holidays",
+          "folk culture",
+          "traditional clothing",
+          "food traditions",
+          "world cultures",
+          "festivals",
+          "customs",
+          "cultural heritage",
+          "UNESCO heritage"
+        ],
+        "avoid": [
+          "political identity debates"
+        ]
+      },
+    
+      {
+        "name": "Traffic and Transportation",
+        "focus": [
+          "traffic rules",
+          "road signs",
+          "public transportation",
+          "urban mobility",
+          "driving basics",
+          "pedestrian safety",
+          "rail transport",
+          "air transportation",
+          "traffic management"
+        ],
+        "avoid": [
+          "traffic violations",
+          "legal disputes"
+        ]
+      },
+    
+      {
+        "name": "Professional Work Life",
+        "focus": [
+          "workplace communication",
+          "career development",
+          "teamwork",
+          "leadership",
+          "remote work",
+          "office culture",
+          "productivity",
+          "professional skills",
+          "business etiquette"
+        ],
+        "avoid": [
+          "employment law advice"
+        ]
+      },
+    
+      {
+        "name": "Travel",
+        "focus": [
+          "tourist destinations",
+          "travel planning",
+          "world landmarks",
+          "Turkish tourism",
+          "air travel",
+          "hotels",
+          "cultural tourism",
+          "nature tourism",
+          "travel safety"
+        ],
+        "avoid": [
+          "visa advice"
+        ]
+      },
+    
+      {
+        "name": "Geography",
+        "focus": [
+          "countries",
+          "cities",
+          "continents",
+          "mountains",
+          "rivers",
+          "oceans",
+          "climate",
+          "natural regions",
+          "human geography"
+        ],
+        "avoid": []
+      },
+    
+      {
+        "name": "Biology",
+        "focus": [
+          "human body",
+          "plants",
+          "animals",
+          "ecosystems",
+          "genetics",
+          "evolution",
+          "microbiology",
+          "cell biology",
+          "biodiversity"
+        ],
+        "avoid": [
+          "medical diagnosis"
+        ]
+      },
+    
+      {
+        "name": "Hospital and Healthcare",
+        "focus": [
+          "hospital departments",
+          "medical professions",
+          "preventive healthcare",
+          "common medical procedures",
+          "public health",
+          "vaccination",
+          "first aid",
+          "medical equipment"
+        ],
+        "avoid": [
+          "diagnosis",
+          "treatment recommendations"
+        ]
+      },
+    
+      {
+        "name": "Finance",
+        "focus": [
+          "banking",
+          "personal finance",
+          "saving money",
+          "inflation",
+          "interest rates",
+          "currencies",
+          "budgeting",
+          "financial institutions",
+          "economic concepts"
+        ],
+        "avoid": [
+          "investment advice",
+          "stock recommendations"
+        ]
+      },
+    
+      {
+        "name": "Education",
+        "focus": [
+          "learning methods",
+          "schools",
+          "universities",
+          "academic disciplines",
+          "educational technology",
+          "study techniques",
+          "science education",
+          "lifelong learning"
+        ],
+        "avoid": []
+      },
+    
+      {
+        "name": "Vehicles",
+        "focus": [
+          "automobiles",
+          "electric vehicles",
+          "vehicle maintenance",
+          "motorcycles",
+          "public transport vehicles",
+          "aviation",
+          "ships",
+          "vehicle safety",
+          "automotive technology"
+        ],
+        "avoid": [
+          "racing accidents"
+        ]
+      },
+    
+      {
+        "name": "Furniture and Home Living",
+        "focus": [
+          "furniture types",
+          "interior design",
+          "home organization",
+          "bedroom furniture",
+          "living room furniture",
+          "ergonomics",
+          "materials",
+          "home decoration"
+        ],
+        "avoid": []
+      },
+    
+      {
+        "name": "Turkish Idioms and Language",
+        "focus": [
+          "Turkish idioms",
+          "Turkish proverbs",
+          "etymology",
+          "Turkish language",
+          "expressions",
+          "communication",
+          "language culture"
+        ],
+        "avoid": []
+      },
+    
+      {
+        "name": "University Life",
+        "focus": [
+          "higher education",
+          "campus life",
+          "student organizations",
+          "academic research",
+          "degree programs",
+          "study skills",
+          "international education",
+          "university history"
+        ],
+        "avoid": []
+      },
+    
+      {
+        "name": "Shopping and Consumer Life",
+        "focus": [
+          "retail",
+          "consumer products",
+          "online shopping",
+          "brands",
+          "shopping centers",
+          "consumer behavior",
+          "product categories",
+          "household goods"
+        ],
+        "avoid": []
+      },
+    
+      {
+        "name": "Television, Movies and Entertainment",
+        "focus": [
+          "film genres",
+          "television history",
+          "Turkish television",
+          "cinema",
+          "animation",
+          "streaming platforms",
+          "famous movies",
+          "famous TV programs"
+        ],
+        "avoid": [
+          "celebrity gossip"
+        ]
+      },
+    
+      {
+        "name": "History",
+        "focus": [
+          "Mustafa Kemal Atatürk",
+          "Turkish War of Independence",
+          "Ottoman Empire",
+          "Late Ottoman period",
+          "History of the Republic of Turkey",
+          "Turkish reforms",
+          "Anatolian civilizations",
+          "World history",
+          "Ancient civilizations",
+          "Industrial Revolution"
+        ],
+        "avoid": [
+          "modern political debates"
+        ]
+      }
+  ]

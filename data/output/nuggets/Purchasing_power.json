@@ -1,0 +1,98 @@
+[
+  {
+    "nugget_id": "ng_7a2f5c67dab6",
+    "text": "Satın alma gücü, belirli bir para birimiyle satın alınabilecek ürün ve hizmet miktarını ifade eder.",
+    "importance": 10,
+    "source_article": "Purchasing power",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'Purchasing power refers to the amount of products and services available for purchase with a certain currency unit.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a clear and fundamental definition of purchasing power, which is essential for understanding the concept. It is broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_f00887436a1b",
+    "text": "Bir para biriminin satın alma gücü, aynı miktarla daha az ürün veya hizmet alınabildiğinde azalır.",
+    "importance": 9,
+    "source_article": "Purchasing power",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'For example, if one spends a single unit of currency at a store to purchase products, then returns at a later date and spends a single unit of currency but is unable to purchase as many products as they had previously, the currency's purchasing power has decreased.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains a key aspect of how purchasing power changes, which is crucial for practical understanding. It's a direct consequence of the definition and important for users."
+  },
+  {
+    "nugget_id": "ng_c53145a77067",
+    "text": "Bir para biriminin satın alma gücü, fiyat endeksi (P) kullanılarak 100/P formülüyle hesaplanır ve fiyat seviyesi yükseldikçe azalır.",
+    "importance": 9,
+    "source_article": "Purchasing power",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentences: 'The purchasing power of a unit of currency, say a dollar, in a given year, expressed in dollars of the base year, is 100/P, where P is the price index in that year. So, by definition, the purchasing power of a dollar decreases as the price level rises.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a method for calculating purchasing power and explains its relationship with the price index. This is a core concept for understanding economic changes."
+  },
+  {
+    "nugget_id": "ng_5ad80578538c",
+    "text": "Gelir sabit kalırken fiyatlar yükselirse, satın alma gücü düşer.",
+    "importance": 9,
+    "source_article": "Purchasing power",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'If one's income remains constant but prices rise, their purchasing power decreases.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains a common scenario affecting purchasing power, making the concept relatable and understandable for everyday users. It's a direct application of the definition."
+  },
+  {
+    "nugget_id": "ng_eff86982c724",
+    "text": "Daha yüksek reel gelir, daha fazla satın alma gücü anlamına gelir.",
+    "importance": 8,
+    "source_article": "Purchasing power",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'A larger real income means more purchasing power, as it corresponds to the income itself.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget establishes a direct link between real income and purchasing power, which is a fundamental economic relationship and important for users to grasp."
+  },
+  {
+    "nugget_id": "ng_b0d1233c7f67",
+    "text": "Enflasyon her zaman satın alma gücünü düşürmez, özellikle gelir artışı fiyat artışlarını aşarsa.",
+    "importance": 8,
+    "source_article": "Purchasing power",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'Inflation does not always result in decreased purchasing power, especially if income exceeds price levels.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget clarifies a common misconception about inflation and purchasing power, providing a nuanced and important piece of information for users."
+  },
+  {
+    "nugget_id": "ng_684d3f78d6b7",
+    "text": "Adam Smith'e göre, satın alma gücü bir ölçüde başkalarının emeği veya malları üzerinde bir güçtür.",
+    "importance": 7,
+    "source_article": "Purchasing power",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'Scottish economist Adam Smith noted that having money gives one the ability to \"command\" others' labor, so purchasing power to some extent is power over other people, to the extent that they are willing to trade their labor or goods for money or currency.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget offers a historical and philosophical perspective on purchasing power, adding depth to the concept. While not as central as the definition, it's valuable context."
+  },
+  {
+    "nugget_id": "ng_d8f7328d8a13",
+    "text": "Geleneksel olarak, paranın satın alma gücü altın ve gümüşün yerel değerine, ayrıca malların arz ve talebine bağlıydı.",
+    "importance": 7,
+    "source_article": "Purchasing power",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'Traditionally, the purchasing power of money depended heavily upon the local value of gold and silver, but was also made subject to the availability and demand of certain goods on the market.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides historical context on the factors influencing purchasing power, which is useful for understanding its evolution. It's less critical than modern definitions but still valuable."
+  }
+]

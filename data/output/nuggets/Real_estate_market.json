@@ -1,0 +1,110 @@
+[
+  {
+    "nugget_id": "ng_c4a642dfc592",
+    "text": "Emlak işi, ticari, endüstriyel, konut veya karma kullanımlı gayrimenkullerin satın alınması, kiralanması, yönetilmesi veya satılması mesleğidir.",
+    "importance": 10,
+    "source_article": "Real estate market",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the definition of real estate business from the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a clear and fundamental definition of the real estate business, which is central to the topic. It's useful for general understanding."
+  },
+  {
+    "nugget_id": "ng_ec0345ed07b2",
+    "text": "Bir gayrimenkul işlemi, bir mülk birimindeki hakların iki veya daha fazla taraf arasında devredildiği süreçtir.",
+    "importance": 9,
+    "source_article": "Real estate market",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the definition of a real estate transaction from the original text, including the example of seller(s) and buyer(s) in the case of conveyance.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines a core concept: a real estate transaction. It's a fundamental piece of knowledge for understanding the article's subject matter."
+  },
+  {
+    "nugget_id": "ng_0cff2b15438f",
+    "text": "Gayrimenkul işlemleri, devredilen mülkiyet haklarının karmaşıklığı, el değiştiren para miktarı ve devlet düzenlemeleri nedeniyle genellikle oldukça karmaşık olabilir.",
+    "importance": 8,
+    "source_article": "Real estate market",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the reasons for the complexity of real estate transactions from the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains why real estate transactions are complex, providing important context and detail that is valuable for a comprehensive understanding."
+  },
+  {
+    "nugget_id": "ng_3df61c9da25e",
+    "text": "Gayrimenkul sahiplerine komisyon karşılığında özel satış ve pazarlama desteği sağlayan bir aracı kullanmak yaygın bir uygulamadır.",
+    "importance": 7,
+    "source_article": "Real estate market",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the common practice of using an intermediary for dedicated sales and marketing support in exchange for commission.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget describes a common practice in the real estate market (using intermediaries), which is useful practical knowledge for users."
+  },
+  {
+    "nugget_id": "ng_d87bf157831c",
+    "text": "Konut fiyatlarının belirleyicilerini tespit etmek için yapılan çalışmalar çoğunlukla evlerin yapısal, konum ve çevresel özelliklerinin etkilerini incelemektedir.",
+    "importance": 7,
+    "source_article": "Real estate market",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the information about studies on housing price determinants, including the temporal aspect ('to this day') and the focus ('mostly trying to examine').",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific information about studies on housing price determinants. While useful, it's more specific than the core definitions, so medium detail is appropriate."
+  },
+  {
+    "nugget_id": "ng_8dab597a5c8b",
+    "text": "Gayrimenkul işlemlerindeki gelenekler ve gereklilikler, farklı ülkeler ve yargı bölgeleri arasında önemli ölçüde farklılık gösterir.",
+    "importance": 7,
+    "source_article": "Real estate market",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the information about the variation in conventions and requirements for real estate transactions across different countries and jurisdictions.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget highlights the variability of real estate transaction practices globally, which is an important but somewhat specific detail. Medium detail is suitable."
+  },
+  {
+    "nugget_id": "ng_2b67168a1f38",
+    "text": "Bir gayrimenkul işlemi, diğer finansal işlemler gibi, işlem maliyetlerine neden olur.",
+    "importance": 6,
+    "source_article": "Real estate market",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the statement about real estate transactions causing transaction costs in abstract terms.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget states a general economic principle applied to real estate transactions. It's a basic concept, so low detail is sufficient."
+  },
+  {
+    "nugget_id": "ng_8b025bc274b7",
+    "text": "Kuzey Amerika'da bu aracıya emlakçı, emlak komisyoncusu veya realtor denirken; Birleşik Krallık'ta estate agent olarak adlandırılır. Avustralasya'da ise emlak acenteleri, emlak satış temsilcileri, mülk danışmanları, mülk yöneticileri, kiralama acenteleri veya sadece acenteler olarak bilinirler.",
+    "importance": 6,
+    "source_article": "Real estate market",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The original nugget missed several specific titles for intermediaries in Northern America ('real estate agent', 'real estate broker') and Australasia ('real estate sales representatives', 'property managers', 'simply the agents'). The corrected text includes all mentioned titles from the original chunk for better accuracy.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific terminology for intermediaries in different regions. While informative, it's quite specific and detailed, making medium detail appropriate."
+  },
+  {
+    "nugget_id": "ng_a1f241659f71",
+    "text": "İşlem maliyetlerini belirlemek ve muhtemelen azaltmak amacıyla OECD, Avrupa Komisyonu tarafından görevlendirilen bir çalışma ve araştırma eylemi aracılığıyla bu konuyu ele almıştır.",
+    "importance": 5,
+    "source_article": "Real estate market",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the information about OECD's actions regarding transaction costs, including the nuance of 'possibly reduce'.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget describes a specific action by an international organization (OECD) regarding transaction costs. It's a bit niche, so low detail is appropriate."
+  }
+]

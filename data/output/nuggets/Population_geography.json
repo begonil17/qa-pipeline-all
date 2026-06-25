@@ -1,0 +1,110 @@
+[
+  {
+    "nugget_id": "ng_8f462b8d44e2",
+    "text": "Nüfus coğrafyası, insan nüfusunun dağılımını, yapısını, göçünü ve büyümesini belirli bir alanın coğrafi özellikleriyle ilişkili olarak inceler.",
+    "importance": 10,
+    "source_article": "Population geography",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metnin ilk cümlesiyle birebir örtüşmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a comprehensive definition of population geography, covering its core aspects: distribution, structure, migration, and growth, all linked to geographical features. It's a foundational piece of information."
+  },
+  {
+    "nugget_id": "ng_5730224f52a0",
+    "text": "Nüfus coğrafyası, nüfus dağılımlarını etkileyen faktörleri ve bunların kaynaklar, çevre ve toplumsal gelişim üzerindeki etkilerini araştırır.",
+    "importance": 9,
+    "source_article": "Population geography",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metinde nüfus coğrafyasının odaklandığı noktaları doğru bir şekilde belirtmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget expands on the definition by detailing what population geography studies: factors affecting distribution and their impacts on resources, environment, and social development. It's a crucial aspect of the field."
+  },
+  {
+    "nugget_id": "ng_039bd4f4135a",
+    "text": "Nüfus coğrafyası, nüfusun büyüklüğünün ve yapısının doğurganlık, ölüm oranları ve göç gibi demografik süreçlerle nasıl düzenlendiğini araştırır.",
+    "importance": 9,
+    "source_article": "Population geography",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metinde nüfusun büyüklüğü ve yapısının demografik süreçlerle nasıl düzenlendiğine dair bilgiyi doğru bir şekilde yansıtmaktadır.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific details about the demographic processes (fertility, mortality, migration) that shape population size and structure, which is a key component of population geography."
+  },
+  {
+    "nugget_id": "ng_44ebe25ebcf7",
+    "text": "Nüfus coğrafyası, aşırı nüfus ve kirlilik gibi insan-çevre etkileşimlerinden kaynaklanan sorunları inceler.",
+    "importance": 9,
+    "source_article": "Population geography",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The chunk states 'Population geography also studies human-environment interactions, including problems from those relationships, such as overpopulation, pollution, and others', which supports the part about human-environment interactions and their problems, but not 'factors affecting population distributions' or 'social development'.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget focuses on the human-environment interaction aspect, which is important. However, it's less central than the core definition and demographic processes. It's partially supported and can be stored in a compressed form."
+  },
+  {
+    "nugget_id": "ng_273b01486c9e",
+    "text": "Nüfus coğrafyası, nüfus yoğunluğu, kentleşme ve göç eğilimleri gibi kalıpları anlamak için demografik verileri mekansal analizle birleştirir.",
+    "importance": 8,
+    "source_article": "Population geography",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metinde nüfus coğrafyasının demografik verileri mekansal analizle birleştirerek belirli kalıpları anlama şeklini doğru bir şekilde ifade etmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the methodology of population geography, highlighting the integration of demographic data with spatial analysis to understand patterns like density, urbanization, and migration. This is a valuable methodological insight."
+  },
+  {
+    "nugget_id": "ng_35bb47910b6b",
+    "text": "Nüfus coğrafyası, coğrafya, demografi, sosyoloji ve ekonomi gibi çeşitli disiplinlerden beslenen disiplinlerarası bir alandır.",
+    "importance": 8,
+    "source_article": "Population geography",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metinde nüfus coğrafyasının disiplinlerarası yapısını ve ilgili disiplinleri doğru bir şekilde belirtmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget describes the interdisciplinary nature of population geography, listing key contributing fields. Understanding its disciplinary connections is important for a comprehensive view."
+  },
+  {
+    "nugget_id": "ng_d25f99e0524b",
+    "text": "Nüfus coğrafyasının başlıca konuları arasında demografik olaylar (doğum, ölüm, büyüme oranları), nüfus hareketleri, mesleki yapı ve insan-çevre etkileşimleri bulunur.",
+    "importance": 7,
+    "source_article": "Population geography",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metinde \"Topics in population geography\" başlığı altında listelenen çeşitli konuları (demografik olaylar, nüfus hareketleri, mesleki yapı, insan-çevre etkileşimleri) doğru bir şekilde özetlemektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "merge",
+    "storage_reason": "This nugget summarizes key topics. It overlaps with ng_039bd4f4135a (demographic processes), ng_44ebe25ebcf7 (human-environment interactions), and ng_81827979f565 (human-environment interactions). Merging it with the most comprehensive nuggets or keeping it as a summary of topics is best. Given its breadth, it's kept as a high-detail nugget summarizing multiple aspects."
+  },
+  {
+    "nugget_id": "ng_175bb4b61315",
+    "text": "Nüfus coğrafyasının en eski ve kalıcı biçimi, mekansal bilimin bir parçası olarak 1950'lerde ortaya çıkmıştır.",
+    "importance": 6,
+    "source_article": "Population geography",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, orijinal metinde nüfus coğrafyasının en eski biçiminin ortaya çıkış zamanı ve bağlamı hakkında verilen bilgiyi doğru bir şekilde yansıtmaktadır.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides historical context about the emergence of population geography. While useful, it's less central than the definition and core concepts, so it's stored in a compressed form."
+  },
+  {
+    "nugget_id": "ng_5ceac1c67c50",
+    "text": "Nüfusun mekansal dağılımını gösteren bazı harita türleri kloroplet, izolin ve nokta haritalarıdır.",
+    "importance": 6,
+    "source_article": "Population geography",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk explicitly states 'A few types of maps that show the spatial layout of population are choropleth, isoline, and dot maps'.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget mentions specific map types used in population geography. It's a useful detail but not a core concept, so it's stored in a compressed form."
+  }
+]

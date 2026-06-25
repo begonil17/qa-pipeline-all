@@ -1,0 +1,110 @@
+[
+  {
+    "nugget_id": "ng_144c963ede7f",
+    "text": "Konaklama, bir konut veya geçici barınma yeri anlamına gelebilir.",
+    "importance": 10,
+    "source_article": "Accommodation",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states \"Accommodation may refer to: A dwelling A place for temporary lodging\", which directly supports the nugget.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a general definition of accommodation, which is fundamental and broadly applicable. It is highly important and should be stored with full detail."
+  },
+  {
+    "nugget_id": "ng_a8ce168b0973",
+    "text": "Gözde konaklama, gözün yakındaki nesnelere odaklanmak için optik gücünü ayarlama sürecidir.",
+    "importance": 9,
+    "source_article": "Accommodation",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk defines \"Accommodation (eye)\" as \"the process by which the eye increases optical power to maintain a clear image (focus) on an object as it draws near\", which is consistent with the nugget.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains a specific, scientific meaning of accommodation (in the eye). It is important for understanding the term in a biological context and should be stored with full detail."
+  },
+  {
+    "nugget_id": "ng_b060577b40f3",
+    "text": "Psikolojide konaklama, mevcut zihinsel yapıların değiştirilmesidir.",
+    "importance": 9,
+    "source_article": "Accommodation",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The chunk states \"Accommodation in psychology, the process by which existing mental structures and behaviors are modified...\", while the nugget only mentioned \"zihinsel yapılarını\" (mental structures), omitting \"ve davranışlarını\" (and behaviors).",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget describes a psychological concept. While supported, it's a bit more specific than the general definition. Storing it in a compressed form is appropriate."
+  },
+  {
+    "nugget_id": "ng_328ff45024cf",
+    "text": "Makul konaklama, dini azınlıkları veya engelli kişileri koruyan yasal bir ilkedir.",
+    "importance": 8,
+    "source_article": "Accommodation",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk defines \"Reasonable accommodation\" as \"a legal doctrine protecting religious minorities or people with disabilities\", which is fully consistent with the nugget.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines a significant legal concept ('reasonable accommodation') that is relevant to many users. It should be stored with full detail."
+  },
+  {
+    "nugget_id": "ng_5e39d65be03c",
+    "text": "İletişim konaklama teorisi, insanların etkileşimde bulundukları kişilere benzer veya farklı olmak için dil davranışlarını ayarlamasıdır.",
+    "importance": 8,
+    "source_article": "Accommodation",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk defines \"Communication accommodation theory\" as \"the process by which people change their language behavior to be more or less similar to that of the people with whom they are interacting\", which is fully consistent with the nugget.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains a communication theory. It's a distinct and useful concept, important enough to be stored with full detail."
+  },
+  {
+    "nugget_id": "ng_bdf99234abbf",
+    "text": "Jeolojide konaklama, tortul birikimi için mevcut alanı ifade eder.",
+    "importance": 7,
+    "source_article": "Accommodation",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk defines \"Accommodation (geology)\" as \"the space available for sedimentation\", which is fully consistent with the nugget.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget describes a geological meaning of accommodation. It's a specialized term, so storing it in a compressed form is suitable."
+  },
+  {
+    "nugget_id": "ng_80bbe321a866",
+    "text": "Din biliminde konaklama, Hristiyan kilisesinde ilahi vahiy ile bağlantılı teolojik bir ilkedir.",
+    "importance": 7,
+    "source_article": "Accommodation",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk defines \"Accommodation (religion)\" as \"a theological principle linked to divine revelation within the Christian church\", which is fully consistent with the nugget.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget explains a theological concept. It's a specific domain and can be stored in a compressed form."
+  },
+  {
+    "nugget_id": "ng_7a2b3b3414cd",
+    "text": "Özel eğitimde konaklamalar, eğitimle ilgili engelleri olan öğrencilere destek olmak için kullanılan tekniklerdir.",
+    "importance": 6,
+    "source_article": "Accommodation",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk describes \"Accommodations\" as \"a technique for education-related disabilities in special education services\", which is consistent with the nugget.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget describes accommodations in special education. It's a practical application but can be stored in a compressed form."
+  },
+  {
+    "nugget_id": "ng_b58e59664c76",
+    "text": "Dilbilimde konaklama, belirtilmemiş değerlerin dilbilgisel olarak kabul edilmesidir.",
+    "importance": 6,
+    "source_article": "Accommodation",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk defines \"Accommodation\" as \"a linguistics term meaning grammatical acceptance of unstated values as in accommodation of presuppositions\", which is fully consistent with the nugget.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget defines a linguistics term. It's a specialized meaning and can be stored in a compressed form."
+  }
+]

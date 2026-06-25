@@ -1,0 +1,86 @@
+[
+  {
+    "nugget_id": "ng_514f1ca9bff7",
+    "text": "Doğal bölge, temel bir coğrafi birimdir.",
+    "importance": 10,
+    "source_article": "Natural region",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the sentence 'A natural region (landscape unit) is a basic geographic unit.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a fundamental definition of a natural region, which is essential for understanding the topic. It is broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_7a783eeb4693",
+    "text": "Bir doğal bölge, coğrafya, jeoloji ve iklim gibi ortak doğal özellikleriyle ayırt edilir.",
+    "importance": 9,
+    "source_article": "Natural region",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the sentence 'Usually, it is a region which is distinguished by its common natural features of geography, geology, and climate.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the defining characteristics of a natural region, providing key distinguishing features. It is important for a comprehensive understanding."
+  },
+  {
+    "nugget_id": "ng_51eed16ce19f",
+    "text": "Bir doğal bölgenin bitki ve hayvan yaşamı, toprak ve su mevcudiyeti gibi coğrafi ve jeolojik faktörlerden önemli ölçüde etkilenir.",
+    "importance": 8,
+    "source_article": "Natural region",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates and summarizes the sentence 'From the ecological point of view, the naturally occurring flora and fauna of the region are likely to be influenced by its geographical and geological factors, such as soil and water availability, in a significant manner.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget details the ecological dependencies within a natural region, highlighting the influence of geographical and geological factors. It offers valuable insight into the functioning of these regions."
+  },
+  {
+    "nugget_id": "ng_4454e907f157",
+    "text": "Çoğu doğal bölge, homojen ekosistemlerdir.",
+    "importance": 7,
+    "source_article": "Natural region",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the sentence 'Thus most natural regions are homogeneous ecosystems.' The corrected text provides a more direct translation of 'are'.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a key characteristic of natural regions, stating they are typically homogeneous ecosystems. This is a significant concept for understanding their nature."
+  },
+  {
+    "nugget_id": "ng_d1bba98f4151",
+    "text": "İnsan etkisi, belirli bir doğal bölgenin şekillenmesinde ve geleceğinde önemli bir faktör olabilir.",
+    "importance": 6,
+    "source_article": "Natural region",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the sentence 'Human impact can be an important factor in the shaping and destiny of a particular natural region.' The corrected text provides a more direct translation of 'can be an important factor'.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget introduces the important concept of human impact on natural regions, which is relevant for understanding their dynamics and future. It's a broad and significant point."
+  },
+  {
+    "nugget_id": "ng_eb1311ef2835",
+    "text": "Doğal bölge terimi, karşılık gelen resmi bir bölge bulunmadığında kullanışlıdır.",
+    "importance": 5,
+    "source_article": "Natural region",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately translates the sentence 'The term is particularly useful where there is no corresponding or coterminous official region.' The corrected text removes the specific interpretation of 'idari' (administrative) for a more general 'resmi' (official).",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget explains a specific use case for the term 'natural region'. While useful, it's less central than the definitional nuggets and can be stored in a compressed form."
+  },
+  {
+    "nugget_id": "ng_b9c142072a91",
+    "text": "Doğal bölgeler geniş veya belirli olabilir.",
+    "importance": 4,
+    "source_article": "Natural region",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately summarizes information from the chunk, stating that natural regions can be large (like the boreal forest), generic (like alpine tundra), or specific (like areas with particular geological characteristics).",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides examples of the scale and specificity of natural regions. It's illustrative but less fundamental than the core definitions, so it can be compressed."
+  }
+]

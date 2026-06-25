@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "ng_4fa4bf9c04f8",
+    "text": "Bir dönüm noktası, navigasyon için kullanılan, çevresinden öne çıkan ve genellikle uzaktan görülebilen tanınabilir doğal veya yapay bir özelliktir.",
+    "importance": 10,
+    "source_article": "Landmark",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, dönüm noktasının tanımını orijinal metindeki ilk cümleyle birebir örtüşecek şekilde doğru bir şekilde ifade etmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a core definition of a landmark, which is essential for understanding the topic. It's broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_94789e123210",
+    "text": "Dönüm noktaları genellikle doğal veya insan yapımı olarak sınıflandırılır ve her ikisi de başlangıçta yön bulmada navigasyona yardımcı olmak için kullanılmıştır.",
+    "importance": 9,
+    "source_article": "Landmark",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, dönüm noktalarının sınıflandırılmasını ve orijinal kullanım amacını orijinal metindeki \"Types\" bölümüyle uyumlu olarak doğru bir şekilde belirtmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget categorizes landmarks and explains their initial purpose, providing fundamental information about their types and historical use."
+  },
+  {
+    "nugget_id": "ng_1cb5016a21f7",
+    "text": "Modern kullanımda, dönüm noktası terimi yerel veya ulusal sembol haline gelmiş daha küçük yapılara veya özelliklere de uygulanabilir.",
+    "importance": 9,
+    "source_article": "Landmark",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, dönüm noktası teriminin modern kullanımını orijinal metindeki ikinci cümleyle birebir örtüşecek şekilde doğru bir şekilde ifade etmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the evolving and broader modern definition of a landmark, which is important for a comprehensive understanding."
+  },
+  {
+    "nugget_id": "ng_4c10072186de",
+    "text": "Tarihsel olarak, dönüm noktaları kaşifler ve denizciler tarafından bir bölgede yol bulmak veya başlangıç noktalarına geri dönmek için coğrafi özellikler olarak kullanılmıştır.",
+    "importance": 8,
+    "source_article": "Landmark",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, dönüm noktalarının kaşifler ve denizciler tarafından navigasyon için coğrafi özellikler olarak kullanımını orijinal metindeki ilgili bölümle (Age of Exploration örneği dahil) doğru bir şekilde ifade etmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget details the historical application of landmarks in navigation by explorers and sailors, offering valuable context."
+  },
+  {
+    "nugget_id": "ng_6241de5fca87",
+    "text": "Kentsel çalışmalar ve coğrafyada, dönüm noktası tanıdık veya yabancı bir ortamda yönlenmeye yardımcı olan harici bir referans noktası olarak tanımlanır.",
+    "importance": 8,
+    "source_article": "Landmark",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, dönüm noktasının kentsel çalışmalar ve coğrafyadaki tanımını orijinal metindeki ilgili cümleyle birebir örtüşecek şekilde doğru bir şekilde ifade etmektedir.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a specific definition of a landmark within urban studies and geography, adding a specialized but relevant perspective."
+  },
+  {
+    "nugget_id": "ng_3ad6b09612d7",
+    "text": "Doğal dönüm noktaları dağlar, platolar veya özel ağaçlar gibi karakteristik özellikler olabilir; Everest Dağı ve Ağrı Dağı buna örnektir.",
+    "importance": 7,
+    "source_article": "Landmark",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, doğal dönüm noktalarının türlerini ve örneklerini orijinal metindeki \"Natural\" alt başlığı altındaki bilgilerle doğru bir şekilde eşleştirmektedir.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget gives concrete examples of natural landmarks, which helps illustrate the concept. It's specific but useful."
+  },
+  {
+    "nugget_id": "ng_2f70fd0c3097",
+    "text": "Modern anlamda insan yapımı dönüm noktaları, bir bölgenin, şehrin veya ulusun sembolü olarak kullanılan anıtlar veya belirgin binalardır; kilise kuleleri ve minareler buna örnektir.",
+    "importance": 7,
+    "source_article": "Landmark",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, insan yapımı dönüm noktalarının modern tanımını ve örneklerini orijinal metindeki \"Human made\" alt başlığı altındaki bilgilerle doğru bir şekilde eşleştirmektedir.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides examples and the modern definition of human-made landmarks, which is informative and illustrative."
+  },
+  {
+    "nugget_id": "ng_7806e005b801",
+    "text": "Eski İngilizcede 'landmearc' kelimesi başlangıçta bir sınır işaretini tanımlamak için kullanılıyordu, ancak 1560 civarında 'manzaradaki belirgin bir nesne' anlamına gelecek şekilde genelleştirildi.",
+    "importance": 7,
+    "source_article": "Landmark",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, 'landmearc' kelimesinin Eski İngilizcedeki orijinal anlamını ve 1560 civarındaki anlam değişikliğini orijinal metindeki \"Etymology\" bölümüyle uyumlu olarak doğru bir şekilde ifade etmektedir.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget offers etymological information about the word 'landmark', providing historical context and linguistic insight."
+  },
+  {
+    "nugget_id": "ng_cedf3138b141",
+    "text": "İnsan yapımı yapılar denizcilere navigasyonda yardımcı olmak için inşa edilmiştir; İskenderiye Feneri ve Rodos Heykeli buna örnektir.",
+    "importance": 6,
+    "source_article": "Landmark",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, insan yapımı yapıların denizcilere navigasyonda yardımcı olmak için inşa edildiğini ve İskenderiye Feneri ile Rodos Heykeli örneklerini orijinal metindeki ilgili cümlelerle doğru bir şekilde eşleştirmektedir.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides specific historical examples of human-made structures used for navigation. While supported, it's a more specific instance of the broader concept covered in 'ng_4c10072186de' and 'ng_94789e123210'."
+  },
+  {
+    "nugget_id": "ng_d7153cadda2a",
+    "text": "Amerikan İngilizcesinde dönüm noktası turistler için ilgi çekici yerleri belirtirken, İngiliz İngilizcesinde gündelik navigasyon için kullanılır.",
+    "importance": 6,
+    "source_article": "Landmark",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget, dönüm noktası teriminin Amerikan ve İngiliz İngilizcesindeki farklı kullanım alanlarını orijinal metindeki ilgili cümlelerle doğru bir şekilde ifade etmektedir.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget highlights the difference in usage of the term 'landmark' between American and British English. This is a useful but less central detail compared to the core definitions and historical uses."
+  }
+]

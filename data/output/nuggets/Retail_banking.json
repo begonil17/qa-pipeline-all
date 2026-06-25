@@ -1,0 +1,74 @@
+[
+  {
+    "nugget_id": "ng_481e3193956d",
+    "text": "Perakende bankacılık, bireysel müşterilere hizmet sunan bankacılık türüdür ve tüketici bankacılığı veya kişisel bankacılık olarak da bilinir.",
+    "importance": 10,
+    "source_article": "Retail banking",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget is directly stated in the first sentence of the chunk: \"Retail banking, also known as consumer banking or personal banking, is the provision of services by a bank to the general public\".",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a clear and fundamental definition of retail banking, including its alternative names. It's a core concept for understanding the topic."
+  },
+  {
+    "nugget_id": "ng_32c1fe16da5c",
+    "text": "Perakende bankacılık, şirketlere veya diğer bankalara hizmet veren toptan (kurumsal) bankacılıktan farklıdır.",
+    "importance": 9,
+    "source_article": "Retail banking",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: \"Retail banking... is the provision of services by a bank to the general public, rather than to companies, corporations or other banks, which are often described as wholesale banking (corporate banking).\"",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget clearly distinguishes retail banking from wholesale banking, which is crucial for defining its scope. It's a fundamental distinction."
+  },
+  {
+    "nugget_id": "ng_4b22d39897ec",
+    "text": "Perakende bankalar, çek/cari hesaplar, tasarruf hesapları, banka/ATM kartları, kredi kartları, ipotekler ve kişisel krediler gibi çeşitli hizmetler sunar.",
+    "importance": 9,
+    "source_article": "Retail banking",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk explicitly lists these services: \"provision of savings and transactional accounts, mortgages, personal loans, debit cards, and credit cards\" and under \"Products\" lists \"Checking accounts\", \"Current accounts\", \"Savings accounts\", \"Debit cards\", \"ATM cards\", \"Credit cards\", \"Mortgages\", \"Personal loans\".",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget lists the common services offered by retail banks, providing concrete examples of what retail banking entails. This is highly useful for understanding the practical aspects."
+  },
+  {
+    "nugget_id": "ng_f8781888b681",
+    "text": "Perakende bankacılık, yatırım bankacılığı veya ticari bankacılıktan ayrılır.",
+    "importance": 8,
+    "source_article": "Retail banking",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: \"Retail banking is also distinguished from investment banking or commercial banking.\"",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides another important distinction for retail banking, differentiating it from investment and commercial banking. It's useful for clarifying what retail banking is not."
+  },
+  {
+    "nugget_id": "ng_639d5f5d51cf",
+    "text": "Bazı ülkelerde, örneğin ABD'de, sweep hesapları, para piyasası hesapları ve bireysel emeklilik hesapları gibi daha özel perakende bankacılık hizmetleri de sunulur.",
+    "importance": 5,
+    "source_article": "Retail banking",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: \"In some countries, such as the U.S., retail bank services also include more specialised accounts, such as: Sweep accounts Money market accounts Individual Retirement Accounts (IRA's)\".",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget lists specialized services, but it's less central than the general services. Keeping it compressed acknowledges its existence without over-emphasizing specific, country-dependent examples."
+  },
+  {
+    "nugget_id": "ng_11213f7715ab",
+    "text": "Özel bankalar, yüksek net değere sahip bireylerin varlıklarını yöneten bir perakende bankacılık alt türüdür.",
+    "importance": 4,
+    "source_article": "Retail banking",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states under \"Sub-types of retail banks\": \"Private banks manage the assets of high-net-worth individuals.\"",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget describes a sub-type of retail banking. It's useful but not as fundamental as the main definition or core services. Keeping it compressed is appropriate."
+  }
+]

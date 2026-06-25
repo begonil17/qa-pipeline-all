@@ -1,0 +1,38 @@
+[
+  {
+    "nugget_id": "ng_2c42e7c97ae6",
+    "text": "Liste, Türkiye futbol ligi sisteminin ilk üç kademesinde yer alan Türkiye'deki futbol kulüplerini içermektedir.",
+    "importance": 9,
+    "source_article": "List of football clubs in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The original chunk states: 'This is a list of association football clubs in Turkey. Clubs currently in the first three tiers of the Turkish football league system are listed alphabetically.', which directly supports the nugget.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a broad overview of the scope of the list, which is useful for general understanding. It is a central piece of information."
+  },
+  {
+    "nugget_id": "ng_ed37833a2436",
+    "text": "Türkiye futbol ligi sisteminin bir kademesi olan TFF Üçüncü Lig, birden fazla gruba ayrılmıştır.",
+    "importance": 7,
+    "source_article": "List of football clubs in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk explicitly shows 'TFF Third League' followed by 'Group 1:', 'Group 2:', 'Group 3:', and 'Group 4:', indicating it is organized into multiple groups. The context also implies it is a tier within the Turkish football league system.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific structural information about a league within the Turkish football system, which is valuable for users interested in the details of the league structure."
+  },
+  {
+    "nugget_id": "ng_3f2c6a318469",
+    "text": "Türkiye'deki kadın futbol kulüpleri için ayrı bir liste bulunmaktadır.",
+    "importance": 6,
+    "source_article": "List of football clubs in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The 'See also' section in the original chunk explicitly mentions 'List of women's football clubs in Turkey', which confirms the existence of a separate dedicated list.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget informs about the existence of a separate list for women's football clubs, which is important for completeness and directing users to relevant information."
+  }
+]

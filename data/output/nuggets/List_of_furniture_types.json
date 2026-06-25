@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "ng_907ba26ed92a",
+    "text": "Mobilyalar, bir evi veya başka bir binayı yaşamak veya çalışmak için uygun veya konforlu hale getirmek amacıyla kullanılan eşyalardır.",
+    "importance": 10,
+    "source_article": "List of furniture types",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately reflects the definition of furniture provided in the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a fundamental definition of furniture, which is essential for understanding the topic. It is broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_71d5b375fb35",
+    "text": "Mobilyalar genellikle sandalyeler, masalar, depolama üniteleri ve çalışma masaları gibi temel parçaları içerir.",
+    "importance": 9,
+    "source_article": "List of furniture types",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately lists the typical pieces of furniture mentioned in the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget lists the core components of furniture, providing a good overview of what constitutes furniture. It's a foundational piece of information."
+  },
+  {
+    "nugget_id": "ng_e7996208c8a4",
+    "text": "Mobilyalar işlevlerine göre oturma, uyuma veya uzanma, eğlence, masa, depolama ve dini amaçlar gibi çeşitli kategorilere ayrılır.",
+    "importance": 9,
+    "source_article": "List of furniture types",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately reflects the main functional categories of furniture as presented by the headings in the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget categorizes furniture by function, offering a structured understanding of the different types of furniture. This is a comprehensive and useful classification."
+  },
+  {
+    "nugget_id": "ng_708d0a3a7564",
+    "text": "Mobilyalar bağımsız durabilen veya yerleşik olabilir.",
+    "importance": 8,
+    "source_article": "List of furniture types",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that furniture can be free-standing or built-in, as mentioned in the original text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget describes a characteristic of furniture (free-standing vs. built-in). While useful, it's less central than the definition or functional categories, so a compressed form is appropriate."
+  },
+  {
+    "nugget_id": "ng_d605fe8b5aec",
+    "text": "Mobilyalar ahşap, metal, plastik veya cam gibi farklı malzemelerden üretilebilir.",
+    "importance": 8,
+    "source_article": "List of furniture types",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately lists several types of materials from which furniture can be made, as categorized in the original text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget lists materials used for furniture. It's informative but can be summarized to cover the main types without listing every single one, making it suitable for compression."
+  },
+  {
+    "nugget_id": "ng_dc05c41e1c1c",
+    "text": "Sandalye, koltuk ve bank gibi çeşitli oturma mobilyaları mevcuttur.",
+    "importance": 7,
+    "source_article": "List of furniture types",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly lists examples of seating furniture found in the original text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides examples of seating furniture. It's a specific example within a broader category, so a compressed version with key examples is sufficient."
+  },
+  {
+    "nugget_id": "ng_f9fc96da5641",
+    "text": "Yatak ve çekyat gibi uyuma veya uzanma amaçlı mobilyalar bulunur.",
+    "importance": 7,
+    "source_article": "List of furniture types",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly lists examples of sleeping or lying furniture found in the original text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget lists examples of sleeping/lying furniture. Similar to seating furniture, a compressed version with representative examples is appropriate."
+  },
+  {
+    "nugget_id": "ng_b59b5113e947",
+    "text": "Kitaplık, dolap ve gardırop gibi depolama amaçlı mobilyalar yaygın olarak kullanılır.",
+    "importance": 7,
+    "source_article": "List of furniture types",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly lists examples of storage furniture found in the original text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget lists examples of storage furniture. A compressed version with common examples is sufficient for general knowledge."
+  },
+  {
+    "nugget_id": "ng_be7ebb7294df",
+    "text": "Sefer mobilyaları, kolay taşınabilirlik için sökülüp katlanabilen özel tasarımlı mobilyalardır.",
+    "importance": 6,
+    "source_article": "List of furniture types",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately defines campaign furniture as described in the original text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget defines a specific type of furniture (campaign furniture). While it's a supported fact, it's quite specific and less broadly applicable than other nuggets, warranting a compressed form."
+  },
+  {
+    "nugget_id": "ng_d9c51dea2526",
+    "text": "Sehpa, yemek masası ve çalışma masası gibi farklı masa türleri mobilya çeşitleri arasındadır.",
+    "importance": 7,
+    "source_article": "List of furniture types",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The nugget correctly identifies several types of tables, but incorrectly includes 'komodin' (nightstand) as a type of table, whereas the original text lists it under 'Storage'.",
+    "storage_action": "fallback_missing_decision",
+    "storage_reason": "No storage decision returned for this nugget; preserved due to high importance.",
+    "questions_per_nugget": 2
+  }
+]

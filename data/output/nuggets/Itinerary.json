@@ -1,0 +1,62 @@
+[
+  {
+    "nugget_id": "ng_5b25918bde13",
+    "text": "Itinerary kelimesi, Antik Roma'da şehirler, köyler ve duraklar arasındaki mesafeleri listeleyen bir yol haritası olan Itinerarium'u ifade eder.",
+    "importance": 10,
+    "source_article": "Itinerary",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The original chunk states: \"Itinerarium, an Ancient Roman road map in the form of a listing of cities, villages, and other stops, with the intervening distances\". The nugget accurately reflects this.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides the etymological origin of the word 'itinerary' from Latin, which is a foundational piece of information for understanding the term. It's historically significant and broadly applicable."
+  },
+  {
+    "nugget_id": "ng_8aaa9986015c",
+    "text": "Bir seyahat programı (itinerary), gezginler için planlanan varış noktalarını, etkinlikleri ve bir yolculuğun veya turun güzergahını içeren bir çizelgedir.",
+    "importance": 10,
+    "source_article": "Itinerary",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk defines \"Travel itinerary\" as \"a schedule of intended destinations and activities for travelers\" and \"Itinerary\" as \"the route of a road trip, or the proposed outline of one\" and \"the route of a tour or the proposed outline of one\". The nugget combines these accurately.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines the primary, modern meaning of 'itinerary' as a travel schedule. It's a core concept for most users and deserves full detail."
+  },
+  {
+    "nugget_id": "ng_345550fa3faf",
+    "text": "Itinerarium Burdigalense, en eski Hristiyan yol haritasıdır.",
+    "importance": 9,
+    "source_article": "Itinerary",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The original chunk states: \"Itinerarium Burdigalense, also known as the Itinerarium Hierosolymitanum (\"Jerusalem Itinerary\"), the oldest Christian road map in the form of a listing of cities, villages, and other stops with the intervening distances\". The nugget accurately reflects this.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides a specific historical example (Itinerarium Burdigalense). While supported, it's a more specific detail compared to the general definition and origin. Compressing it retains the key information about it being the oldest Christian road map."
+  },
+  {
+    "nugget_id": "ng_cf20addd947a",
+    "text": "Antonine Itinerary, Roma İmparatorluğu içindeki yolları ve mesafeleri kaydeden bir belgedir.",
+    "importance": 8,
+    "source_article": "Itinerary",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The original chunk states: \"Antonine Itinerary, a famous register of the stations and distances along various roads within the Roman Empire\". The nugget accurately reflects this.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "Similar to ng_345550fa3faf, this is a specific historical example. Compressing it to its core function (recording roads and distances in the Roman Empire) makes it concise while retaining useful information."
+  },
+  {
+    "nugget_id": "ng_92a1fd7932c9",
+    "text": "Seyahat programı (itinerary) terimi, zaman yönetimi aracı olarak da kullanılır.",
+    "importance": 8,
+    "source_article": "Itinerary",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The original chunk states: \"Itinerary, or schedule, a time-management tool\". The nugget accurately reflects this.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget introduces a secondary meaning of 'itinerary' as a time management tool. It's a useful extension of the primary definition but not as central as the travel context. Medium detail is appropriate."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "nugget_id": "ng_4585ae6b3a97",
+    "text": "Türkiye her yıl 1000'den fazla festivale ev sahipliği yapmaktadır.",
+    "importance": 10,
+    "source_article": "List of festivals in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a high-level overview of the number of festivals in Turkey, which is a fundamental piece of information for understanding the festival landscape. It is broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_4db7aeec379f",
+    "text": "Türkiye'deki festivaller, yerel etkinliklerden uluslararası etkinliklere kadar çeşitlilik göstermektedir.",
+    "importance": 9,
+    "source_article": "List of festivals in Turkey",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget describes the diversity of festivals in Turkey, ranging from local to international events. This is a useful general fact that provides context without being overly specific."
+  },
+  {
+    "nugget_id": "ng_5c888e258708",
+    "text": "İstanbul, Türkiye'deki festivaller için önemli bir merkezdir.",
+    "importance": 9,
+    "source_article": "List of festivals in Turkey",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 2,
+    "storage_action": "merge",
+    "storage_reason": "This nugget states that Istanbul is an important center for festivals. This fact is partially covered by ng_4db7aeec379f which mentions major metropolitan centers. Merging it into a more general statement about Istanbul's importance as a festival hub is appropriate."
+  },
+  {
+    "nugget_id": "ng_de473fa79079",
+    "text": "İzmir, Türkiye'nin en eski festival etkinliğine ev sahipliği yapmaktadır; bu etkinlik, Eylül ayının ilk günlerinde düzenlenen ve İZFAŞ tarafından organize edilen çok temalı İzmir Enternasyonal Fuarı'nın bir parçasıdır.",
+    "importance": 8,
+    "source_article": "List of festivals in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific and valuable information about İzmir's oldest festival, the İzmir International Fair, including its timing and organizer. This level of detail is useful for users interested in specific historical or regional festival information."
+  },
+  {
+    "nugget_id": "ng_265131f3a648",
+    "text": "Türkiye'deki birçok festival özel sektör tarafından düzenlenmektedir.",
+    "importance": 7,
+    "source_article": "List of festivals in Turkey",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides information about the organizers of festivals. While useful, it's a more specific detail compared to the overall number or diversity of festivals. Storing it in a compressed form is suitable."
+  },
+  {
+    "nugget_id": "ng_201997e9466e",
+    "text": "İstanbul, yaz aylarında çok sayıda müzik festivaline ev sahipliği yapmaktadır.",
+    "importance": 7,
+    "source_article": "List of festivals in Turkey",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 2,
+    "storage_action": "merge",
+    "storage_reason": "This nugget is about music festivals in Istanbul during summer. While specific, it overlaps with the general statement about Istanbul being an important festival center (ng_5c888e258708) and the fact that Istanbul hosts international events (ng_4db7aeec379f). Merging it into a more general statement about Istanbul's role in music festivals is appropriate."
+  }
+]

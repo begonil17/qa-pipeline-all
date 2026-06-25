@@ -1,0 +1,86 @@
+[
+  {
+    "nugget_id": "ng_5c30febe8625",
+    "text": "Doğa turizmi, bir bölgenin doğal çekiciliklerine, bitki örtüsü ve hayvan yaşamına dayalı bir turizm şeklidir.",
+    "importance": 10,
+    "source_article": "Nature tourism",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately reflects the definition of nature tourism provided in the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a core definition of nature tourism, which is fundamental knowledge for the dataset. It is broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_cb2823bbcd6a",
+    "text": "Ekoturizm, doğa turizminin bir alt dalı olup, çevre eğitimi ve korumasına odaklanır; yaban hayatı ve macera turizmiyle de örtüşebilir.",
+    "importance": 9,
+    "source_article": "Nature tourism",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly states that ecotourism is included in nature tourism, focuses on environmental education and conservation, and that nature tourism can overlap with wildlife and adventure tourism.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains ecotourism's relationship to nature tourism and its focus, adding important nuance. It's a key concept and useful for users."
+  },
+  {
+    "nugget_id": "ng_08fc2d95d0a5",
+    "text": "Doğa turizminin çevre üzerinde olumsuz etkileri olabilir.",
+    "importance": 8,
+    "source_article": "Nature tourism",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget directly states a fact mentioned in the original text.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget highlights a potential negative aspect of nature tourism. While important, it's a single point and can be stored with medium detail."
+  },
+  {
+    "nugget_id": "ng_4bd53da5cbdd",
+    "text": "Doğa turizmi, doğal alanların yerel topluluklar ve arazi sahipleri için değerini artırarak koruma çabalarına destek olabilir.",
+    "importance": 8,
+    "source_article": "Nature tourism",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately reflects how nature tourism can promote conservation according to the original text.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget explains a positive impact of nature tourism on conservation efforts, which is valuable information. It can be stored with medium detail."
+  },
+  {
+    "nugget_id": "ng_22086720a0ad",
+    "text": "Doğa turizminin çevresel etkilerini en aza indirmek için çeşitli uygulamalar mevcuttur.",
+    "importance": 7,
+    "source_article": "Nature tourism",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that practices exist to minimize the negative environmental impacts of nature tourism.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget points to mitigation strategies for nature tourism's environmental impact. It's useful information and can be stored with medium detail."
+  },
+  {
+    "nugget_id": "ng_0055a75c2002",
+    "text": "Milli parklar, doğa turizmiyle yakından ilişkilendirilen önemli destinasyonlardır.",
+    "importance": 6,
+    "source_article": "Nature tourism",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget directly states that national parks are closely associated with nature tourism.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget identifies national parks as key destinations for nature tourism. It's a specific example and can be stored with lower detail."
+  },
+  {
+    "nugget_id": "ng_f98c1a67b3bd",
+    "text": "Yıldız gözlemciliği, bisiklet turizmi ve kuş gözlemciliği gibi çeşitli alt türleri bulunur.",
+    "importance": 5,
+    "source_article": "Nature tourism",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately lists examples of nature tourism variants mentioned in the original text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget lists specific examples of nature tourism sub-types. While illustrative, these are specific examples and can be stored with lower detail."
+  }
+]

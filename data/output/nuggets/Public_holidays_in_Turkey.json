@@ -1,0 +1,62 @@
+[
+  {
+    "nugget_id": "ng_c1597409efc5",
+    "text": "Cumhurbaşkanı Recep Tayyip Erdoğan tarafından Mayıs 2021'de açıklanan İnsan Hakları Eylem Planı'na göre, çalışanlar ve öğrenciler, inançlarına bakılmaksızın gözlemledikleri dini bayramlar için izin alabileceklerdir.",
+    "importance": 10,
+    "source_article": "Public holidays in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'In May 2021, Turkish president Recep Tayyip Erdoğan announced a new Human Rights Action Plan. According to the plan 'public and private sector staff and students will be allowed to take leave for the religious holidays that they observe, regardless of their faith.''",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides important information about religious holiday leave for employees and students in Turkey, as announced by the President. It is a significant policy change and should be stored with full detail."
+  },
+  {
+    "nugget_id": "ng_1edcac5bad2e",
+    "text": "Türkiye'de bir takvim yılında toplam 15,5 gün resmi tatil bulunmaktadır.",
+    "importance": 9,
+    "source_article": "Public holidays in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'These holidays can be grouped into national and religious holidays, which in total equal 15.5 days of public holiday in a calendar year.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a key statistic about the total number of public holidays in Turkey. It's a fundamental piece of information for understanding the holiday landscape and is useful for general users."
+  },
+  {
+    "nugget_id": "ng_af6505d7b034",
+    "text": "Türkiye'deki resmi tatiller 19 Mart 1981 tarihli ve 2429 sayılı Kanun ile belirlenmiştir.",
+    "importance": 8,
+    "source_article": "Public holidays in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'The official holidays in Turkey are established by the Act 2429 of 19 March 1981.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget states the legal basis for public holidays in Turkey, which is important foundational knowledge. It's a stable fact that is useful for users seeking to understand the regulations."
+  },
+  {
+    "nugget_id": "ng_cd6dde1736fa",
+    "text": "Türkiye'deki resmi tatiller milli ve dini bayramlar olarak gruplandırılmıştır.",
+    "importance": 7,
+    "source_article": "Public holidays in Turkey",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'These holidays can be grouped into national and religious holidays.'",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides a basic categorization of holidays. While useful, it's less critical than the total number of holidays or the legal basis. It can be stored in a compressed form."
+  },
+  {
+    "nugget_id": "ng_420fafc80be5",
+    "text": "Türkiye'deki resmi tatillerin yasal dayanağı, 27 Mayıs 1935 tarihli ve 2739 sayılı Kanun'un yerini alan 19 Mart 1981 tarihli ve 2429 sayılı Kanun'dur.",
+    "importance": 6,
+    "source_article": "Public holidays in Turkey",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'The official holidays in Turkey are established by the Act 2429 of 19 March 1981 that replaced the Act 2739 of 27 May 1935.'",
+    "questions_per_nugget": 2,
+    "storage_action": "merge",
+    "storage_reason": "This nugget provides historical context about the legal basis of holidays. It overlaps with 'ng_af6505d7b034' which states the current law. Merging this information into a single, more comprehensive nugget about the legal basis, including its historical predecessor, would be more efficient and avoid redundancy."
+  }
+]

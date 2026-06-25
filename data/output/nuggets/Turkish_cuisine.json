@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "tc_sahlep_def",
+    "text": "Sahlep, tarçınla sıcak servis edilen kışın sevilen bir içecektir.",
+    "importance": 9,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'Sahlep is another favorite in winter (served hot with cinnamon).'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a good definition and serving suggestion for Sahlep, a popular Turkish drink."
+  },
+  {
+    "nugget_id": "tc_sahlep_extraction_use",
+    "text": "Sahlep, yabani orkide köklerinden elde edilir ve Türk dondurmasında da kullanılabilir.",
+    "importance": 9,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'Sahlep is extracted from the roots of wild orchids and may be used in Turkish ice cream as well.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the origin of Sahlep and its use in Turkish ice cream, adding valuable detail."
+  },
+  {
+    "nugget_id": "tc_limonata_popularity",
+    "text": "Limonata çok popüler bir içecektir.",
+    "importance": 9,
+    "source_article": "Turkish cuisine",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'Limonata (lemonade) is very popular.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget states the popularity of Limonata, a fundamental fact about this drink."
+  },
+  {
+    "nugget_id": "tc_sherbet_def",
+    "text": "Şerbet, özellikle meyveler, çiçekler veya otlar olmak üzere çok çeşitli malzemelerden yapılabilen bir şuruptur.",
+    "importance": 9,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'Sherbet (Turkish şerbet, pronounced [ʃeɾˈbet]) is a syrup which can be made from any of a wide variety of ingredients, especially fruits, flowers, or herbs.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a comprehensive definition of Sherbet, highlighting its versatility."
+  },
+  {
+    "nugget_id": "tc_sherbet_consumption",
+    "text": "Şerbet, soğuk suyla seyreltilerek içilir.",
+    "importance": 9,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'Sherbet is drunk diluted with cold water.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the correct way to consume Sherbet, which is important for understanding its preparation."
+  },
+  {
+    "nugget_id": "tc_lohusa_sherbeti_use",
+    "text": "Lohusa şerbeti, genellikle doğum sonrası kadınlara verilen bir içecektir.",
+    "importance": 9,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'Lohusa şerbeti is a beverage usually given to women after childbirth.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the specific cultural use of Lohusa şerbeti, providing context and cultural significance."
+  },
+  {
+    "nugget_id": "tc_hosaf_def_use",
+    "text": "Hoşaf, et yemekleri ve pilavın yanında alternatif olarak servis edilen, 'taze su' anlamına gelen Farsça kökenli bir tatlıdır.",
+    "importance": 9,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'In classical Turkish cuisine, hoşaf (from the Persian 'Khosh-ab', meaning 'fresh water') alternatively accompanies meat dishes and pilav (pilaf).'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines Hoşaf, explains its origin, and its traditional serving context with main dishes."
+  },
+  {
+    "nugget_id": "tc_sahlep_history_europe",
+    "text": "Sahlep, kahve yaygınlaşmadan önce Batı Avrupa'da popüler bir içecekti.",
+    "importance": 8,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'This was a popular drink in western Europe before coffee was brought from Africa and came to be widely known.' (Referring to Sahlep from the preceding sentence).",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This fact about Sahlep's historical popularity in Europe is interesting but less central to everyday Turkish cuisine knowledge compared to its definition and uses in Turkey. Storing in compressed form."
+  },
+  {
+    "nugget_id": "tc_limonata_serving",
+    "text": "Limonata, geleneksel olarak baklava ve diğer tatlılarla servis edilir.",
+    "importance": 8,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'It is traditionally served with baklava and other sweets.' (Referring to Limonata from the preceding sentence).",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific and useful information about how Limonata is traditionally served, which is a key aspect of its consumption."
+  },
+  {
+    "nugget_id": "tc_sherbet_ingredients",
+    "text": "Şerbetin içeriği armut, ayva, çilek, elma, kızılcık, nar, portakal, gül yaprakları, kuşburnu veya meyan kökü ve baharatları içerebilir.",
+    "importance": 8,
+    "source_article": "Turkish cuisine",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk states: 'Examples include pears, quinces, strawberries, apples, cornelian cherry, pomegranates, oranges, rose petals, rose hips, or licorice and spices.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_compressed",
+    "storage_reason": "While informative, the extensive list of ingredients can be summarized for a limited dataset. The core idea is its variety of fruit and floral bases."
+  }
+]

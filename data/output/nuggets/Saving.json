@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "ng_8925ac5ac491",
+    "text": "Tasarruf, harcanmayan gelir veya ertelenmiş tüketim olarak tanımlanır ve ekonomide acil tüketim için kullanılmayan her türlü geliri kapsar.",
+    "importance": 10,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately reflects the definition of saving provided in the first two sentences of the chunk: 'Saving is income not spent, or deferred consumption. In economics, a broader definition is any income not used for immediate consumption.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a fundamental definition of saving, which is crucial for understanding the topic. It is broad and useful for general users."
+  },
+  {
+    "nugget_id": "ng_b24b4967bb1f",
+    "text": "Tasarruf, fiziksel yatırımlar için temel bir fon kaynağı sağlayarak sabit sermayenin artmasına ve dolayısıyla ekonomik büyümeye katkıda bulunur.",
+    "importance": 10,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk explicitly states: 'Saving is closely related to physical investment, in that the former provides a source of funds for the latter. ... Saving can therefore be vital to increase the amount of fixed capital available, which contributes to economic growth.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the important economic role of saving in fostering investment and growth, making it valuable for a general audience."
+  },
+  {
+    "nugget_id": "ng_3b49042ef52e",
+    "text": "Ekonomide tasarruf, vergi sonrası gelirden tüketimin çıkarılması olarak tanımlanır; gelirin tasarruf edilen oranı ortalama tasarruf eğilimi, gelirdeki artışın tasarruf edilen oranı ise marjinal tasarruf eğilimi olarak adlandırılır.",
+    "importance": 10,
+    "source_article": "Saving",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The chunk defines saving in economics specifically as 'after-tax income minus consumption', not generally as 'unspent income' or 'deferred consumption'. The rest of the nugget is directly supported.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides a specific economic definition and introduces related concepts (average and marginal propensity to save). While useful, the definition is more technical than the general one, so it's compressed."
+  },
+  {
+    "nugget_id": "ng_ffde955a8940",
+    "text": "Kişisel finansta tasarruf, genellikle mevduat hesabı gibi düşük riskli para koruma yöntemlerini ifade ederken, yatırım daha yüksek risk içerir.",
+    "importance": 9,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately reflects the distinction made in the chunk: 'In terms of personal finance, saving generally specifies low-risk preservation of money, as in a deposit account, versus investment, wherein risk is a lot higher.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget clearly distinguishes between saving and investment in personal finance, highlighting the risk difference, which is a practical and important distinction for everyday users."
+  },
+  {
+    "nugget_id": "ng_bd2cf5c27e12",
+    "text": "Artan tasarruf her zaman yatırımı artırmaz; eğer tasarruflar finansal aracılara yönlendirilmezse, talep düşüşüne ve ekonomik durgunluğa yol açabilir.",
+    "importance": 9,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk clearly states: 'However, increased saving does not always correspond to increased investment. If savings are not deposited into a financial intermediary such as a bank, there is no chance for those savings to be recycled as investment by business. This means that saving may increase without increasing investment, possibly causing a short-fall of demand (a pile-up of inventories, a cut-back of production, employment, and income, and thus a recession) rather than to economic growth.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget presents a crucial nuance about saving: it doesn't automatically lead to investment and can have negative consequences if not channeled properly. This is important for a comprehensive understanding."
+  },
+  {
+    "nugget_id": "ng_692b817ac521",
+    "text": "Kişisel finansta tasarruf, genellikle mevduat hesabı gibi düşük riskli para koruma yöntemlerini ifade ederken, yatırım sermaye riski taşıyan varlıkların satın alınmasını içerir ve bu risk sermaye kaybına yol açabilir.",
+    "importance": 9,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately distinguishes between saving (low risk, nominal preservation, e.g., savings accounts) and investment (higher risk, potential capital loss, e.g., stocks, investment funds) within personal finance, as described in the chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "merge",
+    "storage_reason": "This nugget is very similar to ng_ffde955a8940. It provides a slightly more detailed explanation of investment risk. Merging it with ng_ffde955a8940 would create a more comprehensive nugget on the personal finance distinction."
+  },
+  {
+    "nugget_id": "ng_276b88960986",
+    "text": "Gelecekteki ekonomik büyüme, mevcut tüketimden vazgeçilerek ve bu kaynakların yatırıma dönüştürülmesiyle mümkün hale gelir.",
+    "importance": 8,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget directly translates and accurately reflects the statement in the chunk: 'Future growth is made possible by foregoing present consumption to increase investment.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget succinctly explains the link between foregoing present consumption (saving) and future economic growth, which is a fundamental concept."
+  },
+  {
+    "nugget_id": "ng_6b162ae80797",
+    "text": "\"Saving\" (tasarruf etme eylemi) zaman içinde gerçekleşen bir akış değişkeni iken, \"savings\" (birikimler) belirli bir anda mevcut olan bir stok değişkenidir.",
+    "importance": 8,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately explains the distinction between 'saving' and 'savings' as described in the chunk: 'Saving refers to an activity occurring over time, a flow variable, whereas savings refers to something that exists at any one time, a stock variable.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget clarifies the important distinction between saving (flow) and savings (stock), which is a key definitional point in economics."
+  },
+  {
+    "nugget_id": "ng_e6ab13b5a2ef",
+    "text": "Sermaye piyasaları, kişisel tasarruf, devlet fazlaları ve net ihracatın toplamını fiziksel yatırımla dengeler.",
+    "importance": 8,
+    "source_article": "Saving",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is a direct translation and accurate representation of the statement in the chunk regarding how capital markets equilibrate these components.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget describes the role of capital markets in balancing different economic components, including saving, with investment. It's a good overview of how these elements interact."
+  },
+  {
+    "nugget_id": "ng_565bbb6d55cb",
+    "text": "Tasarruf yöntemleri arasında birikim hesapları, emeklilik fonları, yatırım fonları veya nakit tutma gibi çeşitli yollar bulunur.",
+    "importance": 7,
+    "source_article": "Saving",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget lists the exact methods of saving mentioned in the chunk: 'Methods of saving include putting money in, for example, a savings account, a pension account, an investment fund, or kept as cash.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget lists common methods of saving. While useful, it's a list of examples rather than a core concept, so it's compressed."
+  }
+]

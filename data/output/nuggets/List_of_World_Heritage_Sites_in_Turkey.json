@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "ng_2adba1851943",
+    "text": "Türkiye'de 20'si kültürel ve 2'si karma olmak üzere toplam 22 Dünya Mirası Alanı bulunmaktadır.",
+    "importance": 10,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that there are 22 World Heritage Sites in Turkey, with 20 cultural and 2 mixed, which is directly supported by the chunk: 'There are 22 World Heritage Sites in Turkey, of which 20 are cultural and 2 are mixed, listed for both cultural and natural values.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a high-level overview of the number and types of World Heritage Sites in Turkey, which is fundamental information for the dataset."
+  },
+  {
+    "nugget_id": "ng_ebd926e1d6ef",
+    "text": "Türkiye, UNESCO Dünya Mirası Sözleşmesi'ni 16 Mart 1983 tarihinde kabul etmiştir.",
+    "importance": 9,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that Turkey accepted the UNESCO World Heritage Convention on March 16, 1983, which is directly supported by the chunk: 'Turkey accepted the convention on March 16, 1983.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a key historical fact about Turkey's engagement with the UNESCO World Heritage Convention, which is important context."
+  },
+  {
+    "nugget_id": "ng_dbe997df18b1",
+    "text": "Türkiye'nin ilk Dünya Mirası Alanları 1985 yılında Göreme Milli Parkı ve Kapadokya Kaya Sitleri, Divriği Ulu Camii ve Darüşşifası ile İstanbul'un Tarihi Alanları olarak belirlenmiştir.",
+    "importance": 9,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately lists the first World Heritage Sites in Turkey and the year of their inscription, which is directly supported by the chunk: 'The first sites to be inscribed were Göreme National Park and the Rock Sites of Cappadocia; the Great Mosque and Hospital of Divriği; and the Historic Areas of Istanbul, all at the 9th Session of the World Heritage Committee in 1985.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget details the first World Heritage Sites inscribed in Turkey, offering specific and historically significant information."
+  },
+  {
+    "nugget_id": "ng_6adb66bc2faa",
+    "text": "Türkiye'ye en son eklenen Dünya Mirası Alanı, 2025 yılında listeye dahil edilen Sardis ve Bin Tepe Lidya Tümülüsleri'dir.",
+    "importance": 8,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately identifies the latest World Heritage Site added to Turkey's list and the year, which is directly supported by the chunk: 'The latest inscription, Sardis and the Lydian Tumuli of Bin Tepe, was added to the list in 2025.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides the most current information on additions to the World Heritage list for Turkey, which is valuable for up-to-date knowledge."
+  },
+  {
+    "nugget_id": "ng_f2e16e6fa97d",
+    "text": "Türkiye'nin geçici listesinde 80 alan bulunmaktadır.",
+    "importance": 8,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that Turkey has 80 sites on its tentative list, which is directly supported by the chunk: 'In addition, Turkey has 80 sites on its tentative list.' and 'Turkey lists 80 properties on its tentative list.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific data about Turkey's tentative list, which is relevant for understanding the scope of potential future World Heritage Sites."
+  },
+  {
+    "nugget_id": "ng_2849a2874c72",
+    "text": "UNESCO Dünya Mirası Alanları, 1972'de kurulan UNESCO Dünya Mirası Sözleşmesi'nde tanımlandığı gibi kültürel veya doğal miras açısından önemli yerlerdir.",
+    "importance": 8,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately defines UNESCO World Heritage Sites as places of importance to cultural or natural heritage, as described in the 1972 UNESCO World Heritage Convention, which is directly supported by the chunk: 'The United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Sites are places of importance to cultural or natural heritage as described in the UNESCO World Heritage Convention, established in 1972.'",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a foundational definition of UNESCO World Heritage Sites, which is essential for understanding the topic."
+  },
+  {
+    "nugget_id": "ng_c88399ec6e6e",
+    "text": "Kültürel miras; anıtlar (mimari eserler, anıtsal heykeller veya yazıtlar gibi), bina grupları ve sit alanlarından (arkeolojik alanlar dahil) oluşur.",
+    "importance": 7,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The nugget correctly identifies the components of cultural heritage but omits the examples provided in the chunk for monuments and the inclusion of archaeological sites within 'sites'. The corrected text includes these details for full accuracy: 'Cultural heritage consists of monuments (such as architectural works, monumental sculptures, or inscriptions), groups of buildings, and sites (including archaeological sites).'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines cultural heritage with specific examples, providing useful detail without being overly granular."
+  },
+  {
+    "nugget_id": "ng_610e54dccdce",
+    "text": "Doğal miras; fiziksel ve biyolojik oluşumlar, jeolojik ve fizyografik oluşumlar (tehdit altındaki hayvan ve bitki türlerinin yaşam alanları dahil) ve bilim, koruma veya doğal güzellik açısından önemli doğal alanlardır.",
+    "importance": 7,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The nugget correctly identifies the components of natural heritage but omits the detail about 'habitats of threatened species of animals and plants' being included in geological and physiographical formations. The corrected text includes this detail for full accuracy: 'Natural features (consisting of physical and biological formations), geological and physiographical formations (including habitats of threatened species of animals and plants), and natural sites which are important from the point of view of science, conservation or natural beauty, are defined as natural heritage.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines natural heritage with specific examples, providing useful detail without being overly granular."
+  },
+  {
+    "nugget_id": "ng_6b9e75aed170",
+    "text": "UNESCO, Dünya Mirası Alanlarını on farklı kritere göre listeler; bu kriterlerden i'den vi'ya kadar olanlar kültürel, vii'den x'e kadar olanlar ise doğaldır.",
+    "importance": 7,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "medium",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The nugget correctly states that UNESCO lists sites under ten criteria and classifies criteria i-vi as cultural and vii-x as natural. The correction is for better Turkish phrasing of 'i-vi' and 'vii-x' as 'i'den vi'ya kadar olanlar' and 'vii'den x'e kadar olanlar' to be more explicit, aligning with 'Criteria i through vi are cultural, and vii through x are natural.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the criteria used by UNESCO for listing sites, which is informative but can be presented at a medium detail level."
+  },
+  {
+    "nugget_id": "ng_57b80ca0f983",
+    "text": "Dünya Mirası Listesi'ne aday gösterilecek alanların daha önce geçici listede yer alması zorunludur.",
+    "importance": 6,
+    "source_article": "List of World Heritage Sites in Turkey",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that nominations for the World Heritage List are only accepted if the site was previously on the tentative list, which is directly supported by the chunk: 'Nominations for the World Heritage List are only accepted if the site was previously listed on the tentative list.'",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget describes a procedural requirement for nominations, which is a specific detail that can be stored with lower detail."
+  }
+]

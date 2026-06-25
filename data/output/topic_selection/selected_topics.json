@@ -1,0 +1,130 @@
+{
+  "Furniture and Home Living": [
+    {
+      "title": "List of furniture types",
+      "source_type": "focus",
+      "focus_point": "furniture types",
+      "coverage_score": 10,
+      "reason": "Directly covers various categories and styles of furniture."
+    },
+    {
+      "title": "Furniture",
+      "source_type": "focus",
+      "focus_point": "furniture types",
+      "coverage_score": 9,
+      "reason": "Provides a foundational overview of furniture, including its history and types."
+    },
+    {
+      "title": "Interior design",
+      "source_type": "focus",
+      "focus_point": "interior design",
+      "coverage_score": 10,
+      "reason": "The primary article directly addressing the principles and practice of interior design."
+    },
+    {
+      "title": "Design",
+      "source_type": "focus",
+      "focus_point": "interior design",
+      "coverage_score": 7,
+      "reason": "Provides a broader context for understanding design principles applicable to interiors."
+    },
+    {
+      "title": "Home organization",
+      "source_type": "focus",
+      "focus_point": "home organization",
+      "coverage_score": 10,
+      "reason": "Directly covers methods and systems for organizing a home."
+    },
+    {
+      "title": "Decluttering",
+      "source_type": "focus",
+      "focus_point": "home organization",
+      "coverage_score": 9,
+      "reason": "A key aspect and practical application of home organization."
+    },
+    {
+      "title": "Bedroom furniture",
+      "source_type": "focus",
+      "focus_point": "bedroom furniture",
+      "coverage_score": 10,
+      "reason": "Directly focuses on the specific types of furniture found in bedrooms."
+    },
+    {
+      "title": "Bed",
+      "source_type": "focus",
+      "focus_point": "bedroom furniture",
+      "coverage_score": 9,
+      "reason": "A fundamental and central piece of bedroom furniture."
+    },
+    {
+      "title": "Living room",
+      "source_type": "focus",
+      "focus_point": "living room furniture",
+      "coverage_score": 9,
+      "reason": "Covers the function and typical furnishings of a living room."
+    },
+    {
+      "title": "Sofa",
+      "source_type": "focus",
+      "focus_point": "living room furniture",
+      "coverage_score": 9,
+      "reason": "A primary and iconic piece of living room furniture."
+    },
+    {
+      "title": "Ergonomics",
+      "source_type": "focus",
+      "focus_point": "ergonomics",
+      "coverage_score": 10,
+      "reason": "The main article on the science of designing and arranging things people use."
+    },
+    {
+      "title": "Ergonomic chair",
+      "source_type": "focus",
+      "focus_point": "ergonomics",
+      "coverage_score": 9,
+      "reason": "A practical application of ergonomic principles specifically in furniture design."
+    },
+    {
+      "title": "Woodworking",
+      "source_type": "focus",
+      "focus_point": "materials",
+      "coverage_score": 9,
+      "reason": "Covers a primary material and craft used in furniture making."
+    },
+    {
+      "title": "Textile",
+      "source_type": "focus",
+      "focus_point": "materials",
+      "coverage_score": 8,
+      "reason": "Relevant to upholstery, curtains, and other soft furnishings in home living."
+    },
+    {
+      "title": "Home decoration",
+      "source_type": "focus",
+      "focus_point": "home decoration",
+      "coverage_score": 10,
+      "reason": "Directly covers the aesthetic enhancement of a house or room."
+    },
+    {
+      "title": "Decorative arts",
+      "source_type": "focus",
+      "focus_point": "home decoration",
+      "coverage_score": 8,
+      "reason": "Provides a broader artistic context for items used in home decoration."
+    },
+    {
+      "title": "Home",
+      "source_type": "category_extra",
+      "focus_point": null,
+      "coverage_score": 8,
+      "reason": "Provides an overarching context for the entire category of 'Furniture and Home Living'."
+    },
+    {
+      "title": "Architecture",
+      "source_type": "category_extra",
+      "focus_point": null,
+      "coverage_score": 7,
+      "reason": "Influences the structure and design of homes, which in turn affects furniture and living arrangements."
+    }
+  ]
+}

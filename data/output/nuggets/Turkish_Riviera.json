@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "ng_fd8178e5c2cf",
+    "text": "Türk Rivierası, popüler olarak Turkuaz Sahili olarak da bilinir.",
+    "importance": 10,
+    "source_article": "Turkish Riviera",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a common alternative name for the Turkish Riviera, which is useful for general knowledge."
+  },
+  {
+    "nugget_id": "ng_25c69e13e675",
+    "text": "Türkiye'nin güneybatısında yer alan Türk Rivierası, Akdeniz ve Ege kıyıları boyunca uzanır.",
+    "importance": 9,
+    "source_article": "Turkish Riviera",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines the geographical location and extent of the Turkish Riviera, which is fundamental information."
+  },
+  {
+    "nugget_id": "ng_86c50826d740",
+    "text": "Bölge, iklimi, kıyı coğrafyası, dağlık arazisi, plajları ve çok sayıda doğal ve arkeolojik sit alanı ile karakterizedir.",
+    "importance": 9,
+    "source_article": "Turkish Riviera",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget describes the key characteristics of the region, providing a good overview of what defines it."
+  },
+  {
+    "nugget_id": "ng_c59a14366b87",
+    "text": "Yaklaşık 1.000 kilometre kıyı şeridi boyunca uzanan Türk Rivierası, hem yerli hem de uluslararası turistler tarafından sıkça ziyaret edilir.",
+    "importance": 8,
+    "source_article": "Turkish Riviera",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides information about the length of the coastline and its popularity as a tourist destination, which is useful but less critical than its location or characteristics."
+  },
+  {
+    "nugget_id": "ng_cc302bad951f",
+    "text": "Türk Rivierası, Antik Dünyanın Yedi Harikası'ndan ikisinin kalıntılarına ev sahipliği yapmaktadır: Halikarnas'taki Mozole ve Efes'teki Artemis Tapınağı.",
+    "importance": 8,
+    "source_article": "Turkish Riviera",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget highlights significant historical and cultural landmarks, making it highly valuable for a QA dataset."
+  },
+  {
+    "nugget_id": "ng_a7ec0a9f63c6",
+    "text": "Türk Rivierası'nın kıyı şeridi, tarih boyunca çeşitli kültürlerin folklorunda bahsedilen kültürel bir hazinedir.",
+    "importance": 7,
+    "source_article": "Turkish Riviera",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget is somewhat abstract and less concrete than others. It can be stored in a compressed form focusing on its cultural significance."
+  },
+  {
+    "nugget_id": "ng_d9cd0dd421b6",
+    "text": "Türk Rivierası ile ilişkilendirilen önemli tarihi figürler arasında Bodrum'da doğan Herodot ve Patara'da doğan Aziz Nikolaos bulunmaktadır.",
+    "importance": 7,
+    "source_article": "Turkish Riviera",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific historical figures associated with the region, adding depth to its historical context."
+  },
+  {
+    "nugget_id": "ng_9bd5c84a3880",
+    "text": "Mark Antony'nin Türk Rivierası'nı Kleopatra'ya düğün hediyesi olarak seçtiği söylenir.",
+    "importance": 6,
+    "source_article": "Turkish Riviera",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget is an interesting anecdote but less central to the core knowledge of the Turkish Riviera. It can be stored in a compressed form."
+  },
+  {
+    "nugget_id": "ng_f9fa46f5dd8a",
+    "text": "Antalya'nın batısındaki volkanik dağların efsanevi Kimera mitine ilham verdiği inanılmaktadır.",
+    "importance": 6,
+    "source_article": "Turkish Riviera",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget is a specific mythological reference, which is interesting but not as broadly useful as other facts. Storing it compressed is appropriate."
+  },
+  {
+    "nugget_id": "ng_f29f78576195",
+    "text": "Antalya, Bodrum, Fethiye ve Marmaris gibi uluslararası alanda tanınan birçok şehir ve kasaba Türk Rivierası içinde yer almaktadır.",
+    "importance": 5,
+    "source_article": "Turkish Riviera",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget lists key cities and towns within the Turkish Riviera, providing concrete examples of locations within the region."
+  }
+]

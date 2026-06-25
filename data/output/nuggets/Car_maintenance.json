@@ -1,0 +1,122 @@
+[
+  {
+    "nugget_id": "ng_5afc228135f3",
+    "text": "Araç bakımı, belirli zaman aralıklarında veya belirli bir mesafe kat edildikten sonra yapılan bir dizi bakım işlemidir.",
+    "importance": 9,
+    "source_article": "Car maintenance",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately reflects the definition of vehicle service provided in the first sentence of the chunk.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a fundamental definition of car maintenance, which is essential for a QA dataset. Its importance is high, and it's a core concept."
+  },
+  {
+    "nugget_id": "ng_0f21fa4e4bb8",
+    "text": "Araç bakım programı, aracın yılına, markasına, modeline, sürüş koşullarına (örneğin, aşırı sıcak veya soğuk iklim koşulları, dağlık, tozlu veya buzlanmış yollar, sık dur-kalk) ve sürücü davranışlarına göre değişir.",
+    "importance": 9,
+    "source_article": "Car maintenance",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that the maintenance schedule varies based on the car's model, driving conditions, and driver behavior, which is explicitly mentioned in the 'Scheduling' section. I added 'yılına, markasına' for completeness as it's in the source.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the variability of maintenance schedules based on multiple factors, which is crucial for users to understand. It's a broad and important piece of information."
+  },
+  {
+    "nugget_id": "ng_56555ff33354",
+    "text": "Araç bakımında yaygın görevler arasında görsel inceleme, arıza tespiti, aşınan veya ömrünü tamamlayan parçaların ve sıvıların değiştirilmesi ve ayar gerektiren bileşenlerin ayarlanması bulunur.",
+    "importance": 9,
+    "source_article": "Car maintenance",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately lists common maintenance tasks such as inspection, diagnostic, replacement, and adjustments, which are detailed under 'Common tasks involved in maintaining a vehicle'.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget lists common maintenance tasks, providing a good overview of what car maintenance entails. It's practical and useful for users."
+  },
+  {
+    "nugget_id": "ng_18200585544f",
+    "text": "Bakım aralıkları araç üreticisi tarafından belirlenir ve bazı modern araçlar bir sonraki bakımın ne zaman yapılacağını elektronik olarak gösterge panelinde gösterir.",
+    "importance": 8,
+    "source_article": "Car maintenance",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly states that service intervals are specified by the manufacturer and that modern cars display the next service date electronically. I added 'gösterge panelinde' (on the instrument panel) for more precision.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides important information about how maintenance intervals are determined and how modern cars indicate them. It's useful but slightly less fundamental than the definition or common tasks."
+  },
+  {
+    "nugget_id": "ng_b6ff90b84754",
+    "text": "Yapılan bakımlar genellikle bir servis defterine veya dijital servis kaydına işlenir ve eksiksiz bir servis geçmişi aracın ikinci el değerini artırır.",
+    "importance": 8,
+    "source_article": "Car maintenance",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that services are recorded in a service book or digital record and that a complete service history adds to the resale value.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget highlights the importance of service records and their impact on resale value, which is a practical consideration for car owners."
+  },
+  {
+    "nugget_id": "ng_468167e83b9a",
+    "text": "Genel bir kılavuz olarak, küçük araç bakımları her 10.000 ila 15.000 kilometrede bir, büyük araç bakımları ise her 30.000 ila 45.000 kilometrede bir veya on iki ayda bir yapılır (hangisi önce gelirse).",
+    "importance": 8,
+    "source_article": "Car maintenance",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately provides the guideline for minor and major service intervals, including the distance and time frames, as stated in the chunk. I changed '10.000-15.000' to '10.000 ila 15.000' for better flow.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific mileage and time-based guidelines for minor and major services, which is very practical for users. It's a good level of detail for a medium-level nugget."
+  },
+  {
+    "nugget_id": "ng_18659d062a65",
+    "text": "Araç bakımı (tune-up), motorun orijinalinden daha iyi performans göstermesi için yapılan motor ayarlaması (engine tuning) ile karıştırılmamalıdır; bakım, motoru olması gerektiği gibi çalışır durumda tutmayı amaçlar.",
+    "importance": 7,
+    "source_article": "Car maintenance",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly distinguishes between a tune-up (maintenance) and engine tuning, explaining their different purposes, as stated in the chunk.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget clarifies a common point of confusion between maintenance and engine tuning, which is useful for understanding the purpose of car maintenance."
+  },
+  {
+    "nugget_id": "ng_4506c089992b",
+    "text": "Büyük bakım (major service), tam bakımdan (full service) daha kapsamlıdır; tam bakımın tüm kontrollerini içerirken, daha detaylıdır ve polen filtresi veya fren hidroliği değişimi gibi daha fazla aşınan parçanın değiştirilmesini içerir.",
+    "importance": 7,
+    "source_article": "Car maintenance",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately describes the difference between major and full service, including the comprehensiveness, detail, and examples of replaced parts, as explained in the chunk.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget differentiates between major and full service, providing clarity on their scope and components. It's useful for understanding service levels."
+  },
+  {
+    "nugget_id": "ng_eb38beaa55c2",
+    "text": "Düzenli araç bakımı yapılmaması durumunda sürücüler cezalarla karşılaşabilir; örneğin, ABD'deki birçok eyalette, araçların yasal kalabilmesi için her yıl veya iki yılda bir güvenlik denetimlerinden geçmesi gerekir ve başarısız olan araçları sürmeye devam edenler para cezasına çarptırılabilir.",
+    "importance": 7,
+    "source_article": "Car maintenance",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly states that drivers can be penalized for not servicing their cars regularly and provides the example of safety inspections for legality, as mentioned in the chunk. I added 'ABD'deki birçok eyalette' and 'başarısız olan araçları sürmeye devam edenler para cezasına çarptırılabilir' for more completeness.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget informs users about potential penalties for neglecting maintenance, using a specific example. While it contains specific regional information (US states), the general concept of penalties is relevant."
+  },
+  {
+    "nugget_id": "ng_bac5b223eba7",
+    "text": "Bir servis muayenesi, debriyaj, vites kutusu, araç aküsü ve motor bileşenleri gibi önemli parçaların incelenmesini kapsar ve standart güvenlik denetimlerinden daha detaylıdır.",
+    "importance": 7,
+    "source_article": "Car maintenance",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The chunk explicitly states that a Service Inspection includes clutch, gearbox, car battery, and engine components, and involves \"further inspections than MOT\", which implies it is more detailed than standard safety inspections (like MOT).",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget details what a service inspection includes and how it differs from standard safety inspections, providing useful specifics for users."
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "nugget_id": "ng_545564e9a12e",
+    "text": "Devlet olmanın baskın uluslararası hukuk standardı, 1933 Montevideo Sözleşmesi ile kodifiye edilen deklaratif devlet teorisidir.",
+    "importance": 10,
+    "source_article": "List of sovereign states",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget accurately reflects the information in the source text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines the primary international legal standard for statehood, which is a fundamental concept for understanding sovereign states. It's important and broadly applicable."
+  },
+  {
+    "nugget_id": "ng_0345890dc8ff",
+    "text": "Montevideo Sözleşmesi, bir devletin uluslararası hukuk kişisi sayılması için kalıcı nüfus, tanımlanmış bir toprak, hükümet ve diğer devletlerle ilişki kurma kapasitesine sahip olmasını ve güce başvurularak elde edilmemiş olmasını şart koşar.",
+    "importance": 9,
+    "source_article": "List of sovereign states",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget accurately reflects the information in the source text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget details the specific criteria outlined in the Montevideo Convention for statehood. It's a crucial piece of information for understanding the practical application of the declarative theory."
+  },
+  {
+    "nugget_id": "ng_6594e7f9f5e7",
+    "text": "Devlet olmanın bir kriteri olarak tanınmanın derecesi konusunda tartışmalar mevcuttur; deklaratif teori tanınmayı önemsiz görürken, kurucu teori tanınmayı zorunlu kılar.",
+    "importance": 8,
+    "source_article": "List of sovereign states",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget accurately reflects the information in the source text.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget highlights a key debate in international law regarding statehood recognition, contrasting the declarative and constitutive theories. It's important for understanding the nuances of statehood."
+  },
+  {
+    "nugget_id": "ng_25d8a57160cb",
+    "text": "Bu listede, kendilerini egemen devlet olarak gören ve ya deklaratif devlet teorisini karşılayan ya da en az bir BM üyesi devlet tarafından tanınan tüm siyasi yapılar yer almaktadır.",
+    "importance": 7,
+    "source_article": "List of sovereign states",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget accurately reflects the information in the source text.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the inclusion criteria for the list of sovereign states, which is useful context for understanding the list's composition. It combines the declarative theory with recognition by at least one UN member state."
+  },
+  {
+    "nugget_id": "ng_203c952d7b69",
+    "text": "Bu liste, BM sistemindeki üyeliklerine göre 193 BM üyesi, iki BM Genel Kurulu üyesi olmayan gözlemci devlet ve on diğer devlet olmak üzere 205 egemen devleti içermektedir.",
+    "importance": 6,
+    "source_article": "List of sovereign states",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget accurately reflects the information in the source text.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides specific numbers and categories of states included in the list, offering concrete data about the scope of sovereign states recognized within the UN system. It's a factual and useful piece of information."
+  },
+  {
+    "nugget_id": "ng_392c18155465",
+    "text": "Egemen devletler listesi, egemen olmayan veya başka bir devletle yakın ilişkisi olan varlıkları ve uluslararası anlaşmalarla egemenliği kısıtlanmış ulus altı bölgeleri de içerir.",
+    "importance": 6,
+    "source_article": "List of sovereign states",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget is directly supported by the sentence: 'The table includes bullets in the right-hand column representing entities that are either not sovereign states or have a close association to another sovereign state. It also includes subnational areas where the sovereignty of the titular state is limited by an international agreement.'",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget clarifies that the list is not exhaustive of only fully sovereign states, including entities with complex statuses. This is important for understanding the limitations and scope of the list."
+  },
+  {
+    "nugget_id": "ng_b9d0c6729b0d",
+    "text": "Liste, de facto egemen devlet statüsüne sahip olarak tanınan varlıkları içerir ve dahil edilme, yasal olarak devlet olma iddiasının onayı olarak görülmemelidir.",
+    "importance": 5,
+    "source_article": "List of sovereign states",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget accurately reflects the information in the source text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget explains that inclusion in the list doesn't constitute legal recognition of statehood. It's a useful clarification but less central than the criteria for statehood itself."
+  },
+  {
+    "nugget_id": "ng_714a417ef99c",
+    "text": "Listelenen devletler, egemenlik anlaşmazlığına göre tartışmasız egemenliğe sahip (189), tartışmalı egemenliğe sahip (14) ve özel siyasi statüye sahip (2) olarak ayrılmıştır.",
+    "importance": 5,
+    "source_article": "List of sovereign states",
+    "detail_level": "low",
+    "validation_verdict": "supported",
+    "validation_reason": "Nugget accurately reflects the information in the source text.",
+    "questions_per_nugget": 1,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget provides a breakdown of states based on their sovereignty status. While informative, the specific numbers might be too detailed for a general QA dataset and can be summarized."
+  }
+]

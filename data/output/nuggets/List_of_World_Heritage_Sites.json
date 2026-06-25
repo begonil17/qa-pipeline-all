@@ -1,0 +1,62 @@
+[
+  {
+    "nugget_id": "ng_77c9e558bb8a",
+    "text": "UNESCO Dünya Mirası Alanları, 1972'de kurulan UNESCO Dünya Mirası Sözleşmesi'nde tanımlandığı gibi kültürel veya doğal miras açısından önemli yerlerdir.",
+    "importance": 10,
+    "source_article": "List of World Heritage Sites",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that UNESCO World Heritage Sites are places of cultural or natural heritage importance, as defined by the 1972 UNESCO World Heritage Convention, which is directly supported by the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a foundational definition of UNESCO World Heritage Sites, which is crucial for understanding the topic. Its high importance and broad applicability make it suitable for full detail."
+  },
+  {
+    "nugget_id": "ng_7befeade3720",
+    "text": "UNESCO, Dünya Mirası Alanlarını on kritere göre listeler; her alan en az bir kriteri karşılamalıdır ve bu kriterler kültürel (i-vi) ve doğal (vii-x) olarak ayrılır.",
+    "importance": 9,
+    "source_article": "List of World Heritage Sites",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget correctly states that UNESCO lists sites under ten criteria, each requiring at least one criterion to be met, and that criteria i-vi are cultural while vii-x are natural, which is directly supported by the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget explains the criteria used by UNESCO for listing World Heritage Sites, which is a key piece of information. The detail level is appropriate for the importance and usefulness of the fact."
+  },
+  {
+    "nugget_id": "ng_29edbe428785",
+    "text": "Kültürel miras; mimari eserler, anıtsal heykeller, yazıtlar gibi anıtları, bina gruplarını ve arkeolojik alanlar dahil olmak üzere sit alanlarını kapsar.",
+    "importance": 8,
+    "source_article": "List of World Heritage Sites",
+    "detail_level": "high",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately describes cultural heritage as consisting of monuments (architectural works, monumental sculptures, inscriptions), groups of buildings, and sites (including archaeological sites), which is directly supported by the original text.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget provides a detailed definition of cultural heritage within the context of World Heritage Sites. It is important for understanding the scope of cultural heritage and warrants full detail."
+  },
+  {
+    "nugget_id": "ng_5b3e7d81be29",
+    "text": "Doğal miras; doğal özellikler (fiziksel ve biyolojik oluşumlar), jeolojik ve fizyografik oluşumlar ve tehdit altındaki hayvan ve bitki türlerinin yaşam alanları ile bilim, koruma veya doğal güzellik açısından önemli doğal alanlardan oluşur.",
+    "importance": 8,
+    "source_article": "List of World Heritage Sites",
+    "detail_level": "high",
+    "validation_verdict": "partially_supported",
+    "validation_reason": "The nugget is mostly correct but omits 'of animals and plants' when describing the habitats of threatened species. The corrected text includes this detail for full accuracy.",
+    "questions_per_nugget": 3,
+    "storage_action": "keep_full",
+    "storage_reason": "This nugget defines natural heritage. Although the original validation was 'partially_supported', the corrected text is accurate and important for a comprehensive understanding of World Heritage. Full detail is justified."
+  },
+  {
+    "nugget_id": "ng_35649bcb47b4",
+    "text": "Üye devletler, Dünya Mirası Listesi'ne aday göstermeyi düşündükleri geçici sit alanları listesi tutabilirler ve adaylıklar ancak alan daha önce geçici listede yer almışsa kabul edilir.",
+    "importance": 7,
+    "source_article": "List of World Heritage Sites",
+    "detail_level": "medium",
+    "validation_verdict": "supported",
+    "validation_reason": "The nugget accurately states that member states can maintain a list of tentative sites for nomination, and nominations are only accepted if the site was previously on this tentative list, which is directly supported by the original text.",
+    "questions_per_nugget": 2,
+    "storage_action": "keep_compressed",
+    "storage_reason": "This nugget describes the nomination process, which is useful but less central than the definitions of heritage or criteria. Compressing it to medium detail is appropriate."
+  }
+]
