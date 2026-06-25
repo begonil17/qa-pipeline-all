@@ -7,7 +7,7 @@ from src.llm.schemas import QUESTION_PARAPHRASE_SCHEMA
 
 PROJECT_ROOT = Path(__file__).resolve().parent
 
-OUTPUT_ROOT = PROJECT_ROOT / "output"
+OUTPUT_ROOT = PROJECT_ROOT / "data" / "output"
 
 INPUT_DIR = OUTPUT_ROOT / "nugget_qa"
 OUTPUT_DIR = OUTPUT_ROOT / "nugget_qa_paraphrased"
