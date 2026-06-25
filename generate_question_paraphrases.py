@@ -5,8 +5,7 @@ from src.config import NUGGET_QA_MODEL
 from src.llm.client import generate_json
 from src.llm.schemas import QUESTION_PARAPHRASE_SCHEMA
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SCRIPT_DIR.parent.parent
+PROJECT_ROOT = Path(__file__).resolve().parent
 
 OUTPUT_ROOT = PROJECT_ROOT / "output"
 
