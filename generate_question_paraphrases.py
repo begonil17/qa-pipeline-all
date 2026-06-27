@@ -5,9 +5,10 @@ from src.config import NUGGET_QA_MODEL
 from src.llm.client import generate_json
 from src.llm.schemas import QUESTION_PARAPHRASE_SCHEMA
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+SCRIPT_DIR = Path(__file__).resolve().parent
+PROJECT_ROOT = SCRIPT_DIR
 
-OUTPUT_ROOT = PROJECT_ROOT / "data" / "output"
+OUTPUT_ROOT = PROJECT_ROOT / "output"
 
 INPUT_DIR = OUTPUT_ROOT / "nugget_qa"
 OUTPUT_DIR = OUTPUT_ROOT / "nugget_qa_paraphrased"
@@ -15,7 +16,9 @@ OUTPUT_DIR = OUTPUT_ROOT / "nugget_qa_paraphrased"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
+BATCH_SIZE = 10
 
+processed = 0
 
 PROMPT_TEMPLATE = """
 You are rewriting a Turkish question.
@@ -140,9 +143,7 @@ def main():
         records = list(load_jsonl(qa_file))
 
         with output_file.open("w", encoding="utf-8") as fout:
-            BATCH_SIZE = 10
-            processed = 0
-            
+
             for batch_records in batch(records, BATCH_SIZE):
 
                 print(
