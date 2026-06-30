@@ -16,6 +16,9 @@ class DataCollectionState(TypedDict, total=False):
     topics_by_category: Dict[str, List[dict]]
     topics: List[str]
 
+    # fetch from url
+    article_urls: List[str]
+
     # wikipedia + chunking
     raw_article_paths: List[str]
     article_chunks: Dict[str, List[str]]

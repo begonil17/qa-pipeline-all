@@ -1,0 +1,65 @@
+import json
+from pathlib import Path
+
+from src.wikipedia.url_fetcher import fetch_article_from_url
+
+
+RAW_DIR = Path("data/raw_url_articles")
+RAW_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def safe_filename(title: str):
+
+    return (
+        title
+        .replace(" ", "_")
+        .replace("/", "_")
+        .replace("\\", "_")
+    )
+
+
+def url_fetch_node(state):
+
+    paths = []
+
+    errors = state.get("errors", [])
+
+    urls = state["article_urls"]
+
+    for url in urls:
+
+        try:
+
+            article = fetch_article_from_url(url)
+
+            output_path = RAW_DIR / f"{safe_filename(article['title'])}.json"
+
+            if output_path.exists():
+
+                paths.append(str(output_path))
+
+                continue
+
+            output_path.write_text(
+
+                json.dumps(
+                    article,
+                    ensure_ascii=False,
+                    indent=2,
+                ),
+
+                encoding="utf-8",
+            )
+
+            paths.append(str(output_path))
+
+        except Exception as e:
+
+            errors.append(f"Failed to fetch {url}: {e}")
+
+    print(f"Finished url fetch. Saved {len(paths)} articles.")
+
+    return {
+        "raw_article_paths": paths,
+        "errors": errors,
+    }
