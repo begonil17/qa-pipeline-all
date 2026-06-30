@@ -135,9 +135,9 @@ def main():
         "enable_raw_qa": False,
 
         # testing limits
-        "max_chunks_per_article": 50,
+        "max_chunks_per_article": 100,
         "max_nuggets_per_chunk": 4,
-        "max_nuggets_per_article": 200,
+        "max_nuggets_per_article": 400,
     }) 
 
     print("Errors:", result.get("errors"))

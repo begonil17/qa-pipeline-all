@@ -3,13 +3,11 @@ from pathlib import Path
 
 from src.wikipedia.url_fetcher import fetch_article_from_url
 
-
 RAW_DIR = Path("data/raw_url_articles")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def safe_filename(title: str):
-
+def safe_filename(title: str) -> str:
     return (
         title
         .replace(" ", "_")
@@ -37,27 +35,34 @@ def url_fetch_node(state):
             if output_path.exists():
 
                 paths.append(str(output_path))
-
                 continue
 
             output_path.write_text(
-
                 json.dumps(
                     article,
                     ensure_ascii=False,
                     indent=2,
                 ),
-
                 encoding="utf-8",
             )
 
             paths.append(str(output_path))
 
+            print(f"✓ {article['title']}")
+
         except Exception as e:
 
-            errors.append(f"Failed to fetch {url}: {e}")
+            print(f"✗ Failed: {url}")
+            print(f"  {e}")
 
-    print(f"Finished url fetch. Saved {len(paths)} articles.")
+            errors.append(
+                f"{url}: {e}"
+            )
+
+            # Continue with the next URL
+            continue
+
+    print(f"\nFinished fetching {len(paths)} articles.")
 
     return {
         "raw_article_paths": paths,
